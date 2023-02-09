@@ -1,0 +1,4887 @@
+fileFormatVersion: 2
+guid: ad638790132b01c4ebe3750406b0a5ea
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Makoto Sprite_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2482
+        width: 101
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a30faf3f038b4f4bab630ac2e57be77
+      internalID: 743538683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_1
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 2482
+        width: 45
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799e40a77d4d8dd41a1ebd48e74b7d68
+      internalID: 73931127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_2
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 2402
+        width: 25
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b54706cdb2c2045b6bbb2ab669eae2
+      internalID: 1194523516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_3
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 2402
+        width: 25
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1948761ca1fb6484d89e962ea162cc8b
+      internalID: -1538031100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_4
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 2402
+        width: 24
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c196840c5854914ba71040e485d0201
+      internalID: -792306785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_5
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 2402
+        width: 25
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c50821f961491c48bfe6a370c56e770
+      internalID: 615766925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_6
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 2336
+        width: 26
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588d4b9b79777ef4aa3f52be7337d4ae
+      internalID: 422265299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_7
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 2336
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4124dc757367f9749b4594162c742086
+      internalID: 1061706772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_8
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2276
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4edee52df568b4486a5ba84e4611a3
+      internalID: 1770608552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_9
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 2276
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf60c5a9ca4afa42be46dba482b6b69
+      internalID: -885526755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_10
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 2276
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1109fb25472713479363ca5559a4180
+      internalID: 757101280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_11
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 2276
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee335ab2cd0575e44a1757d230edad66
+      internalID: -659981651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_12
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 2307
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca3392f9fa8a264292377914eb40f95
+      internalID: -491646481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_13
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 2276
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9297bdd1679b304989edb8d6977d8b5
+      internalID: -344665060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_14
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 2200
+        width: 18
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90670116780afee4980fed223a6c4d13
+      internalID: -1747415996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_15
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 2200
+        width: 22
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ed5a7f6c2eef74a8b68c0fc69ac23d
+      internalID: -819675458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_16
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 2200
+        width: 20
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27c5094121d1c0458ccc921ca430e35
+      internalID: 2041836031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_17
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 2137
+        width: 24
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b945f5ea5e161424a8b1ee643eeec5a2
+      internalID: 325422203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_18
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 2066
+        width: 27
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2323bb38112e2d4694ef1234ed0b4b2
+      internalID: -168758594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_19
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 2066
+        width: 24
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93160982de119234ba3ff73fce8dea00
+      internalID: -266678261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_20
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 2066
+        width: 35
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82908cda6a611a14a8f6a61cd151043d
+      internalID: -419098959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_21
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 2066
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0247da791fef8f547bc1ee72b9648652
+      internalID: -1229768775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_22
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 2066
+        width: 25
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf2bf383ae1be84abb2c8d9d654e428
+      internalID: -837886046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_23
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 2066
+        width: 25
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee57a347a7326fd4e9d67990a4c3da8c
+      internalID: 934387504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_24
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 2066
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78aa78ff1c35eb4296bf4ca2135fba5
+      internalID: 1712313945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_25
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2001
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fefcd943887af2543afe7fc206a7b033
+      internalID: -1004420100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_26
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 2001
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e33d2cd0b4bd71344b9b5b0dff0607b8
+      internalID: 991646182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_27
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 2001
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 627b56f5a6910294f8a3cd14574f9c18
+      internalID: -2124316406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_28
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 2001
+        width: 29
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e327aa56571247741a7712a6dbe1eaf3
+      internalID: -630741853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_29
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 2001
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888039f84c8c4504e98a028e63cb5630
+      internalID: 273896716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_30
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 2001
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c5f51cfc66ac84ba3997bde1da44ba
+      internalID: 1456018825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_31
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 2004
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830fca17c33060443a62f80f5974c5a7
+      internalID: -692367650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_32
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 2004
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd1d2d7581259c546a48a66fb087edfe
+      internalID: 585227486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_33
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 2002
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b751ff19fd439184880cd5cb8718bb1b
+      internalID: 1605245232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_34
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 2003
+        width: 26
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6c27f02ddc3b342b1d72c46102d08d
+      internalID: 1742397514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_35
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 2003
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760d401de2b002a419592c962e4a8c27
+      internalID: 872265826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_36
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 2003
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07799a7c38e4f64f96aed7ab52841dd
+      internalID: -479935193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_37
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1934
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69c013cdea6fb44791cfab8e6df5b7d
+      internalID: -438015642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_38
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1934
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4178c63abdcbc46b3cd8483615ae9a
+      internalID: 1020772933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_39
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1934
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db7fc394ef03e64692e844c46eac1ff
+      internalID: -1068544013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_40
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1934
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b46bf7a1a4216d4797f570eddd3ff5b
+      internalID: -278076382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_41
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1934
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0897276fc273bd419e8501239877f39
+      internalID: -367638473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_42
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1934
+        width: 31
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23ef12229b64d044b6c36aa4cdade4e
+      internalID: -795445071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_43
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1934
+        width: 27
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0db653a1584ff54297b23cd7a4dc152
+      internalID: -1851745870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_44
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1866
+        width: 21
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1433f9108810e4ba820a43af964159
+      internalID: -1975484728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_45
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1875
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 891bd20d114ba95419f897fb669e3bd6
+      internalID: -30602030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_46
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1883
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c16f0381cfb0549b092fcfbe2c716a
+      internalID: 1890051898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_47
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1883
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1306868de9c269f4a93a1580ab0efc75
+      internalID: -208439485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_48
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1878
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e8e5a1cf2adb04448b41561fef11d38
+      internalID: 2007927081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_49
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1870
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e993c198291bc84f89a293be3022ee6
+      internalID: 903554060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_50
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1801
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37cd5e879241db4988a0bfd17317e9f
+      internalID: 1272821948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_51
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1800
+        width: 29
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7fd720ec999634b96c5259bd1caab3
+      internalID: -956052515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_52
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1800
+        width: 25
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42326e507b2bf0c4fbab26385ffba1a3
+      internalID: -1087019475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_53
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1800
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb21e44bca97fe4b831acbcf2455570
+      internalID: 105148162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_54
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1800
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8269a070e1352bb46bca629ca90bc483
+      internalID: -553285358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_55
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1847
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d0b206529d092d459b0704826aefda7
+      internalID: 1180543784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_56
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1800
+        width: 28
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e0fd22c45c2744e92b685e86bc92f6
+      internalID: -536764839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_57
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1852
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe9caae0c63b7742867bbfe1eee4aec
+      internalID: 22479142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_58
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1847
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66a0922ff37c564fbe9aaef50d16fec
+      internalID: -1035570360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_59
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1849
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e65f79068c63e4ba3ae0274fde2a84
+      internalID: 1602999909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_60
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1801
+        width: 26
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe67310a13dc2b4ca4062ad3b9539f5
+      internalID: 1682692630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_61
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1729
+        width: 35
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0cd6b98bfb59448b402d7c34e6000b
+      internalID: -451305091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_62
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1729
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3b03e495d42b54ebcc909550b39ce0
+      internalID: 512068027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_63
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1729
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92bf2c809d297845b8d884135793481
+      internalID: 257295088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_64
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1729
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b935fe5870d7c1449faf301a383ae74
+      internalID: 85479394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_65
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1729
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972095d09db460840a156b8dba958e3a
+      internalID: 1963770199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_66
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1662
+        width: 25
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c583e38626f4e1643b0ee2a88f395e88
+      internalID: 1111705209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_67
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1662
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d078b4f42656fce41879403f8adcbeb5
+      internalID: 1514037726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_68
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1662
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a02bdb7d6e673847bb30e7e97b86d8e
+      internalID: -1369175576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_69
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1662
+        width: 27
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5fc62b23914be439750044b5bb9bc8
+      internalID: -621778868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_70
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1595
+        width: 24
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d2d1527c388a440a563cbad024768d
+      internalID: -213322548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_71
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1595
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c21b6870cce554b82bd28eb52e5f9c
+      internalID: 320427026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_72
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1595
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d99e7636be708d438a74a81b2bcd95d
+      internalID: 495184243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_73
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1595
+        width: 25
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a5aaa2f5edb1947b7af51341bde425
+      internalID: 746927542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_74
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1629
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2cd890bef74ba47a1af5e8a10ef3fa
+      internalID: -2130958498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_75
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1526
+        width: 30
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33fc192836d0b8b4e96216db36aae882
+      internalID: -609683631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_76
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1526
+        width: 27
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1beca9e2266bc41b812d18a35301e1
+      internalID: -1581495497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_77
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1527
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1336b18306a3a742a60ce92e9949b4c
+      internalID: 1495931949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_78
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1579
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87e403443d9ad3479122c91f73a8cf6
+      internalID: 837516691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_79
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1527
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d792b0b462bba534086b9114c36afe98
+      internalID: -1154214677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_80
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1526
+        width: 80
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c4d5efa93121c408b7a12399a1fbc1
+      internalID: 99020131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_81
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1526
+        width: 79
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14bd2c8022367f14f98a2e57df2b66e7
+      internalID: 1188019697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_82
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1457
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f8834388095d54bbda840672a082bb
+      internalID: -73423549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_83
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1457
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d424ae4a588a48f48a99d7b19dbb61c6
+      internalID: -168121699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_84
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1457
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f8320b9b9392d4a8be77b5dc210921
+      internalID: -831836673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_85
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1476
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa707f3211a3021419d9b1807d405780
+      internalID: 1896177049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_86
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1457
+        width: 27
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4977f4b98c69004797b80b24033f2db
+      internalID: 1716007420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_87
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1457
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7380bc3024bf8d47a45eed8c81e1099
+      internalID: -674358762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_88
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1457
+        width: 18
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a2b81a9d69698478dc785619f487a7
+      internalID: 750702073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_89
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1376
+        width: 50
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a99d6584d859f4bb95104268cd66b5
+      internalID: 578251128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_90
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1376
+        width: 61
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee978b47e412f644882f158113f33e4
+      internalID: 2078705446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_91
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1376
+        width: 64
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911182f8544c2004a8dc62aa7f9a98c9
+      internalID: -1815747979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_92
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1376
+        width: 43
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cba8650d6f009d40ab713ac2db21364
+      internalID: 379311742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_93
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1376
+        width: 61
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e9e83fdd50b4643ba5e287e48f0ca8
+      internalID: 816489027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_94
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1376
+        width: 54
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad6218fc51ee1e4c9e854d76184f034
+      internalID: -509458003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_95
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1376
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f61c3f597c53d44b5a497c5760927c
+      internalID: -172355249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_96
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1376
+        width: 89
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb12a56d8ae8e464f8d5b411f27f5dec
+      internalID: -1315644880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_97
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1376
+        width: 83
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c142df1d612f18f42bb053b0a9747b4a
+      internalID: -783087590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_98
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 1376
+        width: 84
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385c8c088cc977e4e82877ffd9b704c2
+      internalID: -1732723116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_99
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 1376
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a8b63c5f96fef4baff4929102aa15c
+      internalID: -378447645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_100
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1384
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7fe1fed0beaffb4fa05c1dc09584d49
+      internalID: 673968289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_101
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 1381
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29caf1fdc37d31428221dc50370bb6a
+      internalID: 1381533736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_102
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1300
+        width: 57
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c4ae7c4451f5f42987047ddaed2b29
+      internalID: 1928350532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_103
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1300
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3153ae50c6e4a34687410a67db7e4bf
+      internalID: -1409104656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_104
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1300
+        width: 61
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28b6a98934ce9e4e9bf4bb8279b627f
+      internalID: -460822414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_105
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1300
+        width: 66
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 573ee8ecdeccebc45aa18fb907f61754
+      internalID: -110551227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_106
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1301
+        width: 99
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7955f6b9fd5ef4b91a4c330f2f39c8
+      internalID: 1191835256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_107
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1301
+        width: 126
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 660d3e9c856a6914885772b18058bb79
+      internalID: -119627530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_108
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 1300
+        width: 106
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4058acfee8c67cd4b8ad9dbe772d773d
+      internalID: 1708835154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_109
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1300
+        width: 76
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3450ecb65a32848ba9fe5f587d1871
+      internalID: -215890113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_110
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 1300
+        width: 69
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb07511dbb7b1f45be2663d2ed61be8
+      internalID: 1484272150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_111
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1332
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3b8d10987c64941b9a826d354f8e79
+      internalID: 769086779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_112
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 1300
+        width: 61
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f8be1f5f2ac49448381328c7d70b81
+      internalID: 449180478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_113
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1304
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a360af00c79474aaadcc08f9a1426e
+      internalID: -2033614360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_114
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1201
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0027f3f33016622499edc66b8910d5d5
+      internalID: -775886658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_115
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1202
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684f0e6e03bdd0540b420e32817472b7
+      internalID: -1583894202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_116
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1202
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b1a6f7189ef42499316c113e18cc28
+      internalID: -408672549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_117
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1208
+        width: 52
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f38b0d71dec8664c93c4a2359f1c808
+      internalID: -868119834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_118
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1203
+        width: 79
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3512ee3d5115fac4ca7b2ec1704ebaec
+      internalID: 850558105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_119
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1203
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bfb56047a86fa34b9b1c016d79ae1d3
+      internalID: -175473400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_120
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1201
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1b2873f1785db4ea508321a4c20663
+      internalID: 1592677295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_121
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1127
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d27b02e2593500e42aa358dcaab50182
+      internalID: 1403503388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_122
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1127
+        width: 50
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8186e37671fc92941a3abde4b1797754
+      internalID: -1509817279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_123
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1127
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9876a549d801649ab6b45159154b1b
+      internalID: 506769865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_124
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1127
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbaf164dd2b0af74d863bb8f6a8e0a7c
+      internalID: -270079693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_125
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1041
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e492a4abb8461644a221740d9f89cef
+      internalID: -667975069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_126
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1041
+        width: 30
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d96696ae86623840b910ec4c94f7d2c
+      internalID: -308626838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_127
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1041
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034bb9816097da14fbcb259d32251e64
+      internalID: 2060799982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_128
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1042
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1ed4a0d48e1c0439aa583c3f1b46f2
+      internalID: 831055913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_129
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1039
+        width: 55
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e069e69cc0cf09489ffc0f6271811a6
+      internalID: -1978754621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_130
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1049
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c99232256905245ba20163594dfc3d
+      internalID: 139817695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_131
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1049
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4faee2cc782469145a0d000f417a34c4
+      internalID: 635969070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_132
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1039
+        width: 39
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830ce4e6301552a4fb33a2370947c29d
+      internalID: -1529995728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_133
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 951
+        width: 67
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d352c00572c70b41a23a018c839a6dd
+      internalID: -96540591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_134
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 951
+        width: 69
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ce9874949d9a645a0ea8342bc44665
+      internalID: 8891027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_135
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1003
+        width: 40
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3cc27bfc12d0d43afdad5e5c662eb3
+      internalID: 1638015714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_136
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 951
+        width: 74
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 650045a2d7f89cb4ea3ad845e9bd0c17
+      internalID: -1768123445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_137
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 951
+        width: 74
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804107296e304474e907ebbf4ef54f27
+      internalID: -77982612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_138
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 951
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb8912e6881f674a820ebc87e4ea3c4
+      internalID: -1515579370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_139
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 946
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beca87431cf0bd6489a0ca054749086b
+      internalID: -1699314046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_140
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 936
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59cb835e1b4ec274e988b9cc1fa1ba11
+      internalID: 1606504279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_141
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 874
+        width: 49
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65cfd444f7a9b64883a19ad06016c25
+      internalID: 953073277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_142
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 879
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23fef1718551ddd4ca30fa01ba24892f
+      internalID: 1114368229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_143
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 883
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4614220dae06b43abff480112ba28b
+      internalID: -547755995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_144
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 889
+        width: 78
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6435423922cd54c4291c1f65dac1dda7
+      internalID: 1655820283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_145
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 880
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57de6ad665c8aa49abea05529b27c0b
+      internalID: -1366148633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_146
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 880
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 022525e71cf26514796e744eb7dc7588
+      internalID: 1099211465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_147
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 880
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55114456caaceb42be39f68a8881bb9
+      internalID: -1341425721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_148
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 764
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d84e598fb56d90840b1b47666c205ff1
+      internalID: -1485968524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_149
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 762
+        width: 29
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd0b8ebb43ffd441b9d44744bdc9213
+      internalID: 1403793966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_150
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 762
+        width: 26
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50efcd7270b2482478c2d86efd800467
+      internalID: 678811050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_151
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 760
+        width: 92
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e9da293d2100e46a3a5a71719954f4
+      internalID: 1124382580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_152
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 760
+        width: 91
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b91a6b92860e264492033a275843334
+      internalID: -339112081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_153
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 760
+        width: 93
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a91d687661dd25749891ea40d73b729f
+      internalID: -312183132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_154
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 762
+        width: 91
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a1fbbda10d48647a55a1e6a1402b02
+      internalID: 2106648864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_155
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 761
+        width: 87
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e20298041d1ad4eaa8b3231729d113
+      internalID: 1949717857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_156
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 761
+        width: 103
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01785383c40c43479b0d2e4e576fb54
+      internalID: -454082001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_157
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 761
+        width: 127
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 785170985bf5689418ed31deee37f804
+      internalID: 668589509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_158
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 761
+        width: 108
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a385a297ffd53d647adfa6ef7db9a80b
+      internalID: 1791516385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_159
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 761
+        width: 147
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09281dd4f185d7b48bfdc006f5b911dc
+      internalID: -1430329312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_160
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 760
+        width: 127
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b60b9645790af49a2364469ff0a67a
+      internalID: 916874223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_161
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 760
+        width: 127
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fcbde87ac3215746b2325c1f29719d3
+      internalID: -118330608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_162
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 760
+        width: 116
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9efe7632ec3a8f47b73ca3dc4304001
+      internalID: 152415566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_163
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 760
+        width: 116
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775517a3ef45ae447b65d40c9eadfe15
+      internalID: 71881191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_164
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 760
+        width: 117
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50619ae9bfc16b447b738a9a9b775e8c
+      internalID: 190355384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_165
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 760
+        width: 26
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ec5ea007a486a42bf5b2a49b6187c6
+      internalID: -897899400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_166
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 651
+        width: 45
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33722d74bcecf3049a5e2bf92b33c248
+      internalID: 132282867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_167
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 659
+        width: 56
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289cc82d0ed67144ab12ac55259f922e
+      internalID: -133326150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_168
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 657
+        width: 51
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b49acf1a1956e84cb806fbf16cd71d4
+      internalID: 2064164019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_169
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 657
+        width: 61
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e3184b5b5a56644a724947ef0bd20b
+      internalID: -613850321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_170
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 659
+        width: 71
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312a15aba9a3008469098855bac3dbe8
+      internalID: 1207223480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_171
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 659
+        width: 71
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b6334fb9724444a9ad555524f07da2
+      internalID: -456328491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_172
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 659
+        width: 68
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d8f34dbcee81b445abd9532a9523335
+      internalID: 1092919351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_173
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 659
+        width: 51
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ccc9502a032414dbcc41e37b94b077
+      internalID: 1142052638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_174
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 563
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa07f99f6a1a2004687f0eec8c141a2c
+      internalID: -1103361342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_175
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 564
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc3d2e9b3b25944aba6cb8c3c3d77fd
+      internalID: 147909249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_176
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 568
+        width: 49
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57df8211daa092f4fb26117963c44450
+      internalID: -467198271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_177
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 558
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c89617407dd8a34080ecb545250ef68
+      internalID: -1606265441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_178
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 564
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef832a5e07363b948b378630b836954d
+      internalID: -1309862811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_179
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 571
+        width: 52
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431fdabda40c3fc4bb3c9dd4561f28a8
+      internalID: 1967824940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_180
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 568
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9149cecf1d0d73943a394fb851325e60
+      internalID: -1279918098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_181
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 480
+        width: 23
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7afaa6bc130d2cc4eb7ebfb4ff685d57
+      internalID: 1368009011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_182
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 480
+        width: 24
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae808e833669af49b8ebebcf62e34db
+      internalID: 355610593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_183
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 480
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a456b2345719b174fb7cf317ae167b43
+      internalID: -150725618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_184
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 407
+        width: 23
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b2aedfb2af3b144ace412b5441222c
+      internalID: 1391565424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_185
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 407
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900910d8b4dfa8c48a308086c376196c
+      internalID: -245403254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_186
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 407
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85cc2b42ed9d19549983a89bc2d6c147
+      internalID: 539022375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_187
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 407
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adbfaf822c393404a8d82124caf9a72c
+      internalID: -1541678338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_188
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 407
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c00782331479ae41b900d5dd2cd07c0
+      internalID: -632505979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_189
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 407
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d923db79f2bd743ab3796757a79fa1
+      internalID: -992541360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_190
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 335
+        width: 24
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc9b39dfb9089d4c9de04d5c67f775a
+      internalID: 1140036346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_191
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 335
+        width: 24
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35cc39a80950d9943a115e966eebf05c
+      internalID: -1901764578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_192
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 335
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2363bc312479df94f9a033fdec7f479f
+      internalID: -743058427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_193
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 335
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a36b2289f86ea4086e5c72f8647104
+      internalID: -1885841405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_194
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 335
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf925dc61839e94b883dedeebc762fd
+      internalID: 1794762577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_195
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 335
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032655c0c112d9e488966983a80514c2
+      internalID: 1394538478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_196
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 266
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3efbf12e26f83dc45a90350ac779a231
+      internalID: 164037704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_197
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 103
+        width: 122
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d1f7c5a35ee6e47b713760b9badc20
+      internalID: 764494286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_198
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 183
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be2d0bcf4d91c04dbe3ea830588334a
+      internalID: -1108746981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_199
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 104
+        width: 93
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8763a01b86a5a4eb4833b22f239fd2
+      internalID: 509456400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_200
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 104
+        width: 127
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00884ee78bc4694386fddcf381c4b27
+      internalID: -1408442286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_201
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 103
+        width: 142
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad9a662743513348b22c45da4e40f7d
+      internalID: 441159043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_202
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 104
+        width: 117
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 653354909fb832347a5975508839c14c
+      internalID: -728763100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_203
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 105
+        width: 143
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52638d358d8fc3b47a37f8db1e467938
+      internalID: -1278266181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_204
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 105
+        width: 129
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afecee6ce7ad0654ab8e6051fe5ab5d5
+      internalID: -1692010943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_205
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 103
+        width: 114
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4aa8c7f4798f194dbdd67afc21c65f4
+      internalID: 2070937611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_206
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 157
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cae7417d4b515f409f86f0d102b0336
+      internalID: 2085307895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_207
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 103
+        width: 122
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa4225ec7579f14aa1d21ee1ba48086
+      internalID: -1075024830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_208
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 103
+        width: 122
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eca488a1532d0042beb1e147a552761
+      internalID: -141499287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_209
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 103
+        width: 121
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea97960fe1f66a4469971184924655ea
+      internalID: 1708499087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_210
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 107
+        width: 72
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71abc65ae814af419040bbaf2806ee2
+      internalID: 2104761692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_211
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 104
+        width: 69
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7d673cc8cf9bd48ba1477208f93c65
+      internalID: 868094673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_212
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 105
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c39648a9b861e4eb4c11a2a0e6021e
+      internalID: -401321148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_213
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 105
+        width: 69
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ded788dea95474d97666331159d262
+      internalID: -1414808439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_214
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 105
+        width: 69
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668ee34dcfa59114bbd254f24e78648f
+      internalID: -1571102279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto Sprite_215
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 19
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305fb654593924e84b07e047fe345d
+      internalID: -1078521383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Makoto Sprite_127: 2060799982
+      Makoto Sprite_191: -1901764578
+      Makoto Sprite_179: 1967824940
+      Makoto Sprite_25: -1004420100
+      Makoto Sprite_152: -339112081
+      Makoto Sprite_198: -1108746981
+      Makoto Sprite_98: -1732723116
+      Makoto Sprite_180: -1279918098
+      Makoto Sprite_60: 1682692630
+      Makoto Sprite_160: 916874223
+      Makoto Sprite_131: 635969070
+      Makoto Sprite_105: -110551227
+      Makoto Sprite_93: 816489027
+      Makoto Sprite_20: -419098959
+      Makoto Sprite_211: 868094673
+      Makoto Sprite_135: 1638015714
+      Makoto Sprite_80: 99020131
+      Makoto Sprite_76: -1581495497
+      Makoto Sprite_174: -1103361342
+      Makoto Sprite_49: 903554060
+      Makoto Sprite_77: 1495931949
+      Makoto Sprite_164: 190355384
+      Makoto Sprite_34: 1742397514
+      Makoto Sprite_88: 750702073
+      Makoto Sprite_189: -992541360
+      Makoto Sprite_35: 872265826
+      Makoto Sprite_177: -1606265441
+      Makoto Sprite_197: 764494286
+      Makoto Sprite_10: 757101280
+      Makoto Sprite_110: 1484272150
+      Makoto Sprite_97: -783087590
+      Makoto Sprite_182: 355610593
+      Makoto Sprite_193: -1885841405
+      Makoto Sprite_0: 743538683
+      Makoto Sprite_4: -792306785
+      Makoto Sprite_148: -1485968524
+      Makoto Sprite_146: 1099211465
+      Makoto Sprite_55: 1180543784
+      Makoto Sprite_7: 1061706772
+      Makoto Sprite_75: -609683631
+      Makoto Sprite_213: -1414808439
+      Makoto Sprite_185: -245403254
+      Makoto Sprite_74: -2130958498
+      Makoto Sprite_151: 1124382580
+      Makoto Sprite_155: 1949717857
+      Makoto Sprite_101: 1381533736
+      Makoto Sprite_196: 164037704
+      Makoto Sprite_24: 1712313945
+      Makoto Sprite_16: 2041836031
+      Makoto Sprite_51: -956052515
+      Makoto Sprite_111: 769086779
+      Makoto Sprite_121: 1403503388
+      Makoto Sprite_145: -1366148633
+      Makoto Sprite_200: -1408442286
+      Makoto Sprite_44: -1975484728
+      Makoto Sprite_116: -408672549
+      Makoto Sprite_73: 746927542
+      Makoto Sprite_149: 1403793966
+      Makoto Sprite_63: 257295088
+      Makoto Sprite_202: -728763100
+      Makoto Sprite_52: -1087019475
+      Makoto Sprite_126: -308626838
+      Makoto Sprite_170: 1207223480
+      Makoto Sprite_165: -897899400
+      Makoto Sprite_47: -208439485
+      Makoto Sprite_123: 506769865
+      Makoto Sprite_19: -266678261
+      Makoto Sprite_129: -1978754621
+      Makoto Sprite_37: -438015642
+      Makoto Sprite_53: 105148162
+      Makoto Sprite_153: -312183132
+      Makoto Sprite_215: -1078521383
+      Makoto Sprite_130: 139817695
+      Makoto Sprite_183: -150725618
+      Makoto Sprite_163: 71881191
+      Makoto Sprite_201: 441159043
+      Makoto Sprite_113: -2033614360
+      Makoto Sprite_115: -1583894202
+      Makoto Sprite_175: 147909249
+      Makoto Sprite_137: -77982612
+      Makoto Sprite_136: -1768123445
+      Makoto Sprite_18: -168758594
+      Makoto Sprite_173: 1142052638
+      Makoto Sprite_78: 837516691
+      Makoto Sprite_106: 1191835256
+      Makoto Sprite_184: 1391565424
+      Makoto Sprite_144: 1655820283
+      Makoto Sprite_156: -454082001
+      Makoto Sprite_48: 2007927081
+      Makoto Sprite_107: -119627530
+      Makoto Sprite_208: -141499287
+      Makoto Sprite_139: -1699314046
+      Makoto Sprite_94: -509458003
+      Makoto Sprite_17: 325422203
+      Makoto Sprite_82: -73423549
+      Makoto Sprite_72: 495184243
+      Makoto Sprite_33: 1605245232
+      Makoto Sprite_133: -96540591
+      Makoto Sprite_128: 831055913
+      Makoto Sprite_1: 73931127
+      Makoto Sprite_158: 1791516385
+      Makoto Sprite_108: 1708835154
+      Makoto Sprite_206: 2085307895
+      Makoto Sprite_31: -692367650
+      Makoto Sprite_30: 1456018825
+      Makoto Sprite_13: -344665060
+      Makoto Sprite_69: -621778868
+      Makoto Sprite_86: 1716007420
+      Makoto Sprite_212: -401321148
+      Makoto Sprite_154: 2106648864
+      Makoto Sprite_28: -630741853
+      Makoto Sprite_14: -1747415996
+      Makoto Sprite_45: -30602030
+      Makoto Sprite_103: -1409104656
+      Makoto Sprite_176: -467198271
+      Makoto Sprite_99: -378447645
+      Makoto Sprite_9: -885526755
+      Makoto Sprite_71: 320427026
+      Makoto Sprite_194: 1794762577
+      Makoto Sprite_32: 585227486
+      Makoto Sprite_112: 449180478
+      Makoto Sprite_50: 1272821948
+      Makoto Sprite_161: -118330608
+      Makoto Sprite_167: -133326150
+      Makoto Sprite_203: -1278266181
+      Makoto Sprite_188: -632505979
+      Makoto Sprite_65: 1963770199
+      Makoto Sprite_89: 578251128
+      Makoto Sprite_3: -1538031100
+      Makoto Sprite_29: 273896716
+      Makoto Sprite_132: -1529995728
+      Makoto Sprite_22: -837886046
+      Makoto Sprite_54: -553285358
+      Makoto Sprite_12: -491646481
+      Makoto Sprite_61: -451305091
+      Makoto Sprite_187: -1541678338
+      Makoto Sprite_56: -536764839
+      Makoto Sprite_147: -1341425721
+      Makoto Sprite_199: 509456400
+      Makoto Sprite_91: -1815747979
+      Makoto Sprite_39: -1068544013
+      Makoto Sprite_41: -367638473
+      Makoto Sprite_102: 1928350532
+      Makoto Sprite_143: -547755995
+      Makoto Sprite_120: 1592677295
+      Makoto Sprite_118: 850558105
+      Makoto Sprite_171: -456328491
+      Makoto Sprite_122: -1509817279
+      Makoto Sprite_62: 512068027
+      Makoto Sprite_90: 2078705446
+      Makoto Sprite_141: 953073277
+      Makoto Sprite_150: 678811050
+      Makoto Sprite_207: -1075024830
+      Makoto Sprite_85: 1896177049
+      Makoto Sprite_38: 1020772933
+      Makoto Sprite_68: -1369175576
+      Makoto Sprite_109: -215890113
+      Makoto Sprite_142: 1114368229
+      Makoto Sprite_119: -175473400
+      Makoto Sprite_27: -2124316406
+      Makoto Sprite_214: -1571102279
+      Makoto Sprite_162: 152415566
+      Makoto Sprite_58: -1035570360
+      Makoto Sprite_134: 8891027
+      Makoto Sprite_178: -1309862811
+      Makoto Sprite_70: -213322548
+      Makoto Sprite_40: -278076382
+      Makoto Sprite_81: 1188019697
+      Makoto Sprite_140: 1606504279
+      Makoto Sprite_43: -1851745870
+      Makoto Sprite_195: 1394538478
+      Makoto Sprite_192: -743058427
+      Makoto Sprite_57: 22479142
+      Makoto Sprite_124: -270079693
+      Makoto Sprite_210: 2104761692
+      Makoto Sprite_100: 673968289
+      Makoto Sprite_66: 1111705209
+      Makoto Sprite_5: 615766925
+      Makoto Sprite_59: 1602999909
+      Makoto Sprite_87: -674358762
+      Makoto Sprite_125: -667975069
+      Makoto Sprite_168: 2064164019
+      Makoto Sprite_46: 1890051898
+      Makoto Sprite_36: -479935193
+      Makoto Sprite_21: -1229768775
+      Makoto Sprite_42: -795445071
+      Makoto Sprite_64: 85479394
+      Makoto Sprite_166: 132282867
+      Makoto Sprite_117: -868119834
+      Makoto Sprite_205: 2070937611
+      Makoto Sprite_67: 1514037726
+      Makoto Sprite_157: 668589509
+      Makoto Sprite_96: -1315644880
+      Makoto Sprite_169: -613850321
+      Makoto Sprite_83: -168121699
+      Makoto Sprite_8: 1770608552
+      Makoto Sprite_138: -1515579370
+      Makoto Sprite_159: -1430329312
+      Makoto Sprite_92: 379311742
+      Makoto Sprite_2: 1194523516
+      Makoto Sprite_95: -172355249
+      Makoto Sprite_209: 1708499087
+      Makoto Sprite_181: 1368009011
+      Makoto Sprite_11: -659981651
+      Makoto Sprite_6: 422265299
+      Makoto Sprite_172: 1092919351
+      Makoto Sprite_79: -1154214677
+      Makoto Sprite_15: -819675458
+      Makoto Sprite_26: 991646182
+      Makoto Sprite_204: -1692010943
+      Makoto Sprite_104: -460822414
+      Makoto Sprite_190: 1140036346
+      Makoto Sprite_23: 934387504
+      Makoto Sprite_84: -831836673
+      Makoto Sprite_114: -775886658
+      Makoto Sprite_186: 539022375
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

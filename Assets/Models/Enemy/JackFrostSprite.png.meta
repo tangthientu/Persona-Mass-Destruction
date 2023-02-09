@@ -1,0 +1,2401 @@
+fileFormatVersion: 2
+guid: ff1be620d6385224d9016fbf9b98eb6c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 45
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: JackFrostSprite_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 430
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4deaf710896acaf498fb84dc681e0796
+      internalID: -2063999001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 430
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95374a2bb900e2e4e9e8b162701b6a3f
+      internalID: -475474241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 433
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce95e01827ef8424e8751aa1c54a2152
+      internalID: 1059136516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 433
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a00291d437ec9641a909655c9189d98
+      internalID: -30536363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_4
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 434
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c18b06cb3d23e347a88ea10748bcf1f
+      internalID: 938125273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_5
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 434
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf630e68e00c1c44b118202bcb45604
+      internalID: -680666651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_6
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 382
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a98fb00516df6458fddcbddc8b9622
+      internalID: -584990001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_7
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 382
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ca68a096242534e8664ca8ca33907c
+      internalID: 1946307642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_8
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 382
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e13b8fccf2411643b02c91e5de74a1c
+      internalID: 1645752554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_9
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 381
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1333e07410e6d8498c6cca950f802c1
+      internalID: -374006523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_10
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 381
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ec5c3db3599044f83faf431592326e
+      internalID: -6491761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_11
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 381
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c67ac8ccad20c1409eccc646fbe6a86
+      internalID: -455045901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_12
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 381
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dead9b89597a10f44b158d3d7cdc9d48
+      internalID: 1313946431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_13
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 381
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c362159c707291949ac8bfda6053af69
+      internalID: -1530938520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_14
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 382
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b41867618c0a0143ae77f7324109990
+      internalID: -376494978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_15
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 336
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68b69f9ed617b54b86e658a2aca111e
+      internalID: 63000002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_16
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 336
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5028e6fd9bfe5b74789e615a4300f177
+      internalID: -1611859033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_17
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 338
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbfd50bda06e3b1469b37d0a551bdca3
+      internalID: -2036881992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_18
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 338
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48cd0111e7ea93643a2b937c4558fd8b
+      internalID: 1725315257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_19
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 337
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e522e25d066eb414ba933b9cd7b4b946
+      internalID: -1769815044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_20
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 337
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49577c5bc05ce1e4381b439a23ba8258
+      internalID: -1504110883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_21
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 296
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98ce1fcdf4cbdc429b2feed2a66fdd4
+      internalID: 148751914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_22
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 296
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc922af59dbcc6546bc884ce61580967
+      internalID: -1225188286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_23
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 296
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d197baa5526084fb20e53f6a3eb9e4
+      internalID: 1828011698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_24
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 298
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 341c2d3adb4fc884ba6c7414ae60a7ac
+      internalID: 1083017103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_25
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 298
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff1cd5fe7be3d84c948eb8aafd575a2
+      internalID: -1988762078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_26
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 298
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbde5b2c6a9d2124b9d298ebf53ba2c8
+      internalID: -312917155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_27
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 298
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f2da3418b3d89458e6f2d5dbad3f91
+      internalID: -1916390941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_28
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 298
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a4eaa97ff33d645844e58cd19f2f9f
+      internalID: 1628636521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_29
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 296
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eeb4da9dae282c4b8cd71f5d8881320
+      internalID: -1376757082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_30
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 253
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5090bb7b24b404a4ea35f165d7185bbb
+      internalID: 1507382280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_31
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 253
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2298450f6dd3714f9bf2afadab56f04
+      internalID: 1662401823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_32
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 253
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b52cabff02aea4c9be651621e51699
+      internalID: -660474111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_33
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 258
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e544a02f6e0ce945a7102f7bb6667fc
+      internalID: 1259727368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_34
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 257
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96127270ba1cfa14ca62ac451afde88b
+      internalID: 182932451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_35
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 257
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e24bf36d1a253f45bec1d56ca13cdf1
+      internalID: 872482483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_36
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 257
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6cb8aa978ef2644a17ea51db014570
+      internalID: 813797293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_37
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 257
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f19b3163322694bbac2d260a4f569e
+      internalID: 1736788544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_38
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 201
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6286926a22e71e348854cea7ef3df8d4
+      internalID: 872702522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_39
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 232
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bbb20aeba74a4840a29ca5e049cb9c5
+      internalID: 1070770375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_40
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 201
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb5cd0c060048848836ca4288f66e58
+      internalID: -861556676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_41
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 232
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b1bacc2f22f324ab73499e81c38f79
+      internalID: 1974839709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_42
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 230
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e93ac43efd3b943b200802ad3e2f6f
+      internalID: 1633964209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_43
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 229
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85b1c8a9ea548946925a8e23707cbe8
+      internalID: 1633060269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_44
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 229
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3704b42edc7cbc4d88c2ede7ad6d713
+      internalID: 1627295289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_45
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 230
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67956c393f2aa9149b3537df52a486cb
+      internalID: 780512117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_46
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 201
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e2527896fdf934984653e249ee8046
+      internalID: 2006898951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_47
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 201
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d451ee6069b32408596b60c8b83513
+      internalID: -1525399105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_48
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 48
+        width: 84
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f62e19b070164ee4f9ffe4142a1a3b48
+      internalID: 581377261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_49
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 56
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5546f01dc377ab418ce54070e5c46a1
+      internalID: -1244568036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_50
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 152
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f066be9662811a647b6e39dff5b124c1
+      internalID: 677388865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_51
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 132
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643da991cf88dab45960008690226d46
+      internalID: -711738790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_52
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 56
+        width: 47
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7640742d6cbd2794a8c680523d18bf0c
+      internalID: -734265244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_53
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 32
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b336060b9c9c149b6d3c20f7d522e2
+      internalID: 832828704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_54
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f99bdcb9c967549aeb16f435362d20
+      internalID: 1898433073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_55
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 32
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3c2c847bc95c4459343ecbcaa6bf7a
+      internalID: -1907035752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_56
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18d84e8db6a94343805edf8dae76e3d
+      internalID: 1989949611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_57
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 32
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b6a79a84fe07745a07097995add1d5
+      internalID: 179330678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_58
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 32
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b7fccbc0ac34e4e9872d6c52a885a8
+      internalID: 1267605808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_59
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 32
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a498208fc5f919646ad2fdef28fcf482
+      internalID: 119560098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_60
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 32
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ab3b2c6dff09c4aad7adbb02120e5a
+      internalID: -1974992399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_61
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 32
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15af579662f1ba745901eecd3ef368f9
+      internalID: -1984065919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_62
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 24
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e419407730fe75c42a385233c649f715
+      internalID: -921795877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_63
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 24
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e1c92ce755dcd4d93e56b48b12f73b
+      internalID: 1207825818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_64
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 24
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce849f3c87074a468134e720dfdcc88
+      internalID: -519706154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_65
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 24
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac89efaea61e75478cafa6873332f50
+      internalID: -1624779294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_66
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 24
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821b5f0fe4f105c4496e732cf3b5a586
+      internalID: -309375635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_67
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 24
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e44d3e899a1e27408b172f26b9bc79e
+      internalID: 2134023767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_68
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 24
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae3e084d0b1f664fab3ca1f7fc861a8
+      internalID: 2015901355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_69
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 24
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e85494c36ad7a90439ccbbf0c4910fc0
+      internalID: 1159552043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_70
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 24
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9780dc6d3cc84941af632c1296bae79
+      internalID: 375445204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_71
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 24
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc3ffa0af7e6e14890bd6a86f9959ee
+      internalID: -317120461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_72
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 24
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d81e2ce72c204254baf1f73461e1c8dd
+      internalID: -1178939294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_73
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 24
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24226be3e4836204db75ce967199efbd
+      internalID: -777156622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_74
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 24
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fef6016b0b678a46960c68e4b46ffe5
+      internalID: -1474053078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_75
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 16
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a70eb82d076f6044a81b9e6cc228fad
+      internalID: 1337229278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_76
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897c8e9bdabdc594eb97ea51aef0b6da
+      internalID: -834410743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_77
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 16
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43307ffaaa6c1d44cbfb8f124f11b1ff
+      internalID: 527780214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_78
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7899abbb3e141b34ba63bc0e89f86778
+      internalID: -561966769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_79
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 16
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 813688292eb1c51428db0df24e2afc35
+      internalID: 1971936692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_80
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506c073fca0f77042a600eb5da0da0fa
+      internalID: -1223510654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_81
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 16
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9dd4d5980dd78468b6daf3d25918f8
+      internalID: -694338490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_82
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b2195dcb564a94c998647284803a23
+      internalID: 2101613190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_83
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79a86b6a74a955489bd98961494a664
+      internalID: 690365640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_84
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 8
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1288a3d6235594d4c98b057322bf9903
+      internalID: 1525618913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_85
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 8
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c98e91f5d20d0d4e9f0e066e43cd672
+      internalID: -717267499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_86
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 8
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9eef0987365f0438bea4ed863a6969
+      internalID: -1194147792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_87
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 8
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7432a6b039e3e2b41bf2024c120c0ee9
+      internalID: 1104625700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_88
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 8
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 613c173bbcc568e44991ce8ca250423c
+      internalID: 1669779115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_89
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 8
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8852fcc4dffac948b543b6c812003de
+      internalID: -1786142865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_90
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 8
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d94f6ac2b0237e4dbf43a92458300b7
+      internalID: -881737805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_91
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 8
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b4010141bef934c908203480cfd274
+      internalID: -242577714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_92
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 8
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd92ef62e176f34cb7265b8c71ca98c
+      internalID: 591380634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_93
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 8
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4793f61a480c5f74fb96c50cf39e097e
+      internalID: -1416929940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_94
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 8
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb420f428c6a3a44be42b66a8709277
+      internalID: 1587121196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_95
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 8
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a06f47710918c842b5b4d61eb925137
+      internalID: -1921785543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_96
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 8
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc12f0f575d2db42918b093a05a121d
+      internalID: -1869802581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_97
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 8
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159ab6b54ad5a9f4799d8150b810ebde
+      internalID: -1901522751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_98
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 8
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c34d55723e3ab940b858902249edc31
+      internalID: -66000038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_99
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 8
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602f0e8866526434aaed3282dea2d308
+      internalID: 555179991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_100
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 8
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba88914a70dbf84081c871b6a0f7190
+      internalID: -1737729155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_101
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 8
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd9a335bf30be4641a8402d6c711c249
+      internalID: -1009313886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackFrostSprite_102
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 8
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c47c53701d14846afaa592a7394df1
+      internalID: -1393477188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      JackFrostSprite_93: -1416929940
+      JackFrostSprite_27: -1916390941
+      JackFrostSprite_83: 690365640
+      JackFrostSprite_99: 555179991
+      JackFrostSprite_40: -861556676
+      JackFrostSprite_7: 1946307642
+      JackFrostSprite_48: 581377261
+      JackFrostSprite_42: 1633964209
+      JackFrostSprite_45: 780512117
+      JackFrostSprite_97: -1901522751
+      JackFrostSprite_52: -734265244
+      JackFrostSprite_31: 1662401823
+      JackFrostSprite_34: 182932451
+      JackFrostSprite_79: 1971936692
+      JackFrostSprite_6: -584990001
+      JackFrostSprite_96: -1869802581
+      JackFrostSprite_78: -561966769
+      JackFrostSprite_51: -711738790
+      JackFrostSprite_67: 2134023767
+      JackFrostSprite_3: -30536363
+      JackFrostSprite_8: 1645752554
+      JackFrostSprite_18: 1725315257
+      JackFrostSprite_98: -66000038
+      JackFrostSprite_19: -1769815044
+      JackFrostSprite_29: -1376757082
+      JackFrostSprite_49: -1244568036
+      JackFrostSprite_38: 872702522
+      JackFrostSprite_89: -1786142865
+      JackFrostSprite_43: 1633060269
+      JackFrostSprite_71: -317120461
+      JackFrostSprite_80: -1223510654
+      JackFrostSprite_0: -2063999001
+      JackFrostSprite_35: 872482483
+      JackFrostSprite_56: 1989949611
+      JackFrostSprite_82: 2101613190
+      JackFrostSprite_64: -519706154
+      JackFrostSprite_9: -374006523
+      JackFrostSprite_17: -2036881992
+      JackFrostSprite_15: 63000002
+      JackFrostSprite_100: -1737729155
+      JackFrostSprite_101: -1009313886
+      JackFrostSprite_11: -455045901
+      JackFrostSprite_13: -1530938520
+      JackFrostSprite_46: 2006898951
+      JackFrostSprite_57: 179330678
+      JackFrostSprite_69: 1159552043
+      JackFrostSprite_85: -717267499
+      JackFrostSprite_23: 1828011698
+      JackFrostSprite_1: -475474241
+      JackFrostSprite_5: -680666651
+      JackFrostSprite_26: -312917155
+      JackFrostSprite_32: -660474111
+      JackFrostSprite_55: -1907035752
+      JackFrostSprite_91: -242577714
+      JackFrostSprite_60: -1974992399
+      JackFrostSprite_53: 832828704
+      JackFrostSprite_72: -1178939294
+      JackFrostSprite_54: 1898433073
+      JackFrostSprite_2: 1059136516
+      JackFrostSprite_33: 1259727368
+      JackFrostSprite_86: -1194147792
+      JackFrostSprite_14: -376494978
+      JackFrostSprite_39: 1070770375
+      JackFrostSprite_41: 1974839709
+      JackFrostSprite_28: 1628636521
+      JackFrostSprite_68: 2015901355
+      JackFrostSprite_92: 591380634
+      JackFrostSprite_10: -6491761
+      JackFrostSprite_73: -777156622
+      JackFrostSprite_63: 1207825818
+      JackFrostSprite_24: 1083017103
+      JackFrostSprite_75: 1337229278
+      JackFrostSprite_16: -1611859033
+      JackFrostSprite_66: -309375635
+      JackFrostSprite_58: 1267605808
+      JackFrostSprite_95: -1921785543
+      JackFrostSprite_62: -921795877
+      JackFrostSprite_12: 1313946431
+      JackFrostSprite_65: -1624779294
+      JackFrostSprite_25: -1988762078
+      JackFrostSprite_4: 938125273
+      JackFrostSprite_74: -1474053078
+      JackFrostSprite_88: 1669779115
+      JackFrostSprite_21: 148751914
+      JackFrostSprite_37: 1736788544
+      JackFrostSprite_59: 119560098
+      JackFrostSprite_22: -1225188286
+      JackFrostSprite_36: 813797293
+      JackFrostSprite_44: 1627295289
+      JackFrostSprite_84: 1525618913
+      JackFrostSprite_76: -834410743
+      JackFrostSprite_61: -1984065919
+      JackFrostSprite_87: 1104625700
+      JackFrostSprite_30: 1507382280
+      JackFrostSprite_94: 1587121196
+      JackFrostSprite_102: -1393477188
+      JackFrostSprite_81: -694338490
+      JackFrostSprite_50: 677388865
+      JackFrostSprite_47: -1525399105
+      JackFrostSprite_20: -1504110883
+      JackFrostSprite_90: -881737805
+      JackFrostSprite_77: 527780214
+      JackFrostSprite_70: 375445204
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

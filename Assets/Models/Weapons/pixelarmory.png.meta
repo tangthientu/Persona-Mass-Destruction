@@ -1,0 +1,2137 @@
+fileFormatVersion: 2
+guid: 633d5603a6aec2c44bacd91a0c2c560e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pixelarmory_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 420
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215b636a195b5b8409795358ce413102
+      internalID: 1567340559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelarmory_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 419
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2416809a51e87864a80ce72fc6e89a93
+      internalID: -1884755303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelarmory_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 418
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6983c527b28eaaf42ba40abb456dc30b
+      internalID: -1103843085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelarmory_3
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 422
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a81216e7cb2f34cbdf84a7cfe720c3
+      internalID: 530755954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelarmory_4
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 419
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb5e1bf60ae1224b9d72a1b7e337a9e
+      internalID: -298491643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelarmory_5
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 419
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66731271573be194c97d603b02bfeb4c
+      internalID: 1579288583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelarmory_6
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 390
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee62ccfab561fc44c9f911f97f1d811b
+      internalID: -308198650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelarmory_7
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 387
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39e8194513505548b078477790e31bb
+      internalID: 514021620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelarmory_8
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 387
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39701e7455920e74ca46e39314d0de65
+      internalID: -963817505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelarmory_9
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 387
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6acaa1578eeb3f48adae0806142c510
+      internalID: -609491737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelarmory_10
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 388
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d70ab782f63eb4f97fcd9a64a1e9a2
+      internalID: -1389910628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelarmory_11
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 387
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6300dc070dc953d4992d41643b500e19
+      internalID: -1115025424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelarmory_12
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 387
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f52c34189520e4ca387b7dc5509c73
+      internalID: -1831581304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelarmory_13
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 356
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae1b6e83f6561c489a0e42231cf1fa2
+      internalID: -449778576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelarmory_14
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 355
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1632a6f65bd2604daea64fb96672d50
+      internalID: 1734838842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelarmory_15
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 355
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4cb6ad623d6cc43a126777a925a4b6
+      internalID: -1783153585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelarmory_16
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 355
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a5249d3e2e4c24f80bd6eff28c7ff9
+      internalID: 166844228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelarmory_17
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 355
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79dccf1c08c49a4693650c201673c2f
+      internalID: 1240198112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelarmory_18
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 357
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a923efac569e44cb37ea005594ac92
+      internalID: -962133457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelarmory_19
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 355
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbbbd2ed753fd884289bb73129d7f807
+      internalID: -1823065994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelarmory_20
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 324
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 502aa3aeb90fe834c9797cdd98d16bed
+      internalID: 2140779839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelarmory_21
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 323
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb12a61de7b60c429bd351b76bbc397
+      internalID: 1017601235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelarmory_22
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 323
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69c413d1367c574e926bcee848e3c85
+      internalID: -1540856343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelarmory_23
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 341
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a3722c12c403348a3a265c3d79faaa
+      internalID: 498336950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelarmory_24
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 323
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1df0a6a66c1ce42821a210e792e677
+      internalID: 665545694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelarmory_25
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 323
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7437863319a1184a822bcb39799f5b9
+      internalID: 254206790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelarmory_26
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 322
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a31b3b3a18f624297418fde5c74702
+      internalID: -1755665362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelarmory_27
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 322
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d270bfea453dd4a4cad52fb41eeaf548
+      internalID: 939973552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelarmory_28
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 291
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 542be7a24f477dc4f821c78fce6fc73f
+      internalID: 1541792650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelarmory_29
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 290
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 505dd3d5bc18b36428cfbdb7f78b1a9d
+      internalID: -1271271297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelarmory_30
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 291
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8a70d7a3f5af04d8665cabb016e26f
+      internalID: -442697757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelarmory_31
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 292
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fede3d1f527096b44a23e1990f1d9d7b
+      internalID: 1943300242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelarmory_32
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 292
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01b0043d5e110e46984f28aea98864d
+      internalID: 769440126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelarmory_33
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 292
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c79fab9e4a9ca48b606643de9758ff
+      internalID: -867747101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelarmory_34
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 290
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49b594d101d4ae42a9b81652ec21a0a
+      internalID: -668612550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelarmory_35
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 260
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087766e8e79411245907d677c795a6cf
+      internalID: 1218606635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelarmory_36
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 258
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28044efc90beddd47b6260a6c57a220d
+      internalID: -990935780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelarmory_37
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 259
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bed6a770673ba845a5c15e2c5f6b84b
+      internalID: -156983379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelarmory_38
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 259
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a9efd267cfa937478fbe3913c91b1f1
+      internalID: -1992203149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelarmory_39
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 259
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a4821c971fc9834fa3e8cadc356d30d
+      internalID: -80535931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelarmory_40
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 259
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7895657adcbb1954db78b6aca9c652e1
+      internalID: 1530747101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelarmory_41
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 258
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 485f278169e55ce4c86ac3de0f4d8f08
+      internalID: -1962272690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelarmory_42
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 228
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36576e7739e69bf4aaffe0affb7d30ba
+      internalID: -1748189591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelarmory_43
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 227
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052c764850dcff649b022abaf9edb8c7
+      internalID: 1165184919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelarmory_44
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 227
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b9883f0a51ab5545b631d2e5a7b96a3
+      internalID: 265878726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelarmory_45
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 227
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d3240255f97c5243b5c68848dc8c187
+      internalID: -543122583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelarmory_46
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 229
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463390b959286024380a7f55a37575ff
+      internalID: 323076876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelarmory_47
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 228
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4b58f8db5eeb647b440d12021c9171
+      internalID: -718900125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelarmory_48
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 227
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9049f8b70d935d340b80be0f42f07beb
+      internalID: 1380054585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelarmory_49
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 195
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6569c22695e1d7640ba94fcddc3514b3
+      internalID: -917350110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelarmory_50
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 195
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a610b077379974084aad976be14836
+      internalID: 438459578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelarmory_51
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 195
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7d3638159664346832c31a29e61db6
+      internalID: -695599575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelarmory_52
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 217
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c2de26dc557ea44a533b7f72a782c5
+      internalID: -1745459078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelarmory_53
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 194
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d1ab6f83b1c8e40b5c153e103cfa35
+      internalID: 294466841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelarmory_54
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 196
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aefb96d31aebb94da0092112539af67
+      internalID: 972520812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelarmory_55
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 194
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d12a9fc58898524d92e16bd42779304
+      internalID: -1230961595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelarmory_56
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 164
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79fb41ea91c93ff4d9be305090c048c0
+      internalID: -1732268894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelarmory_57
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 163
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eff2cd91fc35194e80da0b5a5ef482b
+      internalID: 608590442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelarmory_58
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 163
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f124d7fdd927ede458156a96459e2fe9
+      internalID: 613457859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelarmory_59
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 163
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d82c26089dc6740901dc1908a15934
+      internalID: -184157241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelarmory_60
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 163
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de368a3c0b50c8348809b0cdc98bdae0
+      internalID: -835708395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelarmory_61
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 165
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a4781423bfd41449a94fb6d332bdd41
+      internalID: -726500321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelarmory_62
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 165
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd85938b17c6984ea4941ae07770c03
+      internalID: 55510951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelarmory_63
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 132
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707736ba7164dae41921974fad9fbefa
+      internalID: -762490061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelarmory_64
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 131
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b1c8521ba577b4d89f4f5ad4002002
+      internalID: -1622990040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelarmory_65
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 131
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d42abdacb54a45f4bb8476198a0174e0
+      internalID: 1239611733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelarmory_66
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 153
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5efcd574cc72445b9ade397f23621a
+      internalID: -120735955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelarmory_67
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 130
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c683348daefb01c4e814073abadd24a7
+      internalID: -1965313925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelarmory_68
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 132
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e07a744878a713c4b956d86b7670facf
+      internalID: -568868535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelarmory_69
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 131
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e898acf16b0ad9d4091dfb633c7e4cc5
+      internalID: 2128520467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelarmory_70
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 99
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e9914091a6d81438986d83ec6201f8
+      internalID: 859722933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelarmory_71
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 99
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d53286be1292e354999cca5dd0429f0b
+      internalID: 1336080288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelarmory_72
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 99
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47edb33e4785b7448813f439b57d2df
+      internalID: 74438575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelarmory_73
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 98
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb41b1647535a564680ef441014e934f
+      internalID: -1959158662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelarmory_74
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 100
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be50fbcdc7a21c4439e447d568184ca1
+      internalID: -16638446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelarmory_75
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 103
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead2c00a74e9f0a4c8a4601f0a331c5a
+      internalID: 794911805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelarmory_76
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 67
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54ae918ba6308c4daff3510af7816c9
+      internalID: 1037604526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelarmory_77
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 67
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee543af3b64a34544b46ff6ad002855e
+      internalID: -1904949244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelarmory_78
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 67
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef69a71d6f0076b469f0c6d3ec75de08
+      internalID: -2098196672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelarmory_79
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 85
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e194f1307c03dc4c85449fa92fd249a
+      internalID: 1368509088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelarmory_80
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 67
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e536d7b274b0c0846b47211c984c8467
+      internalID: 39105654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelarmory_81
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ee4d179abc65d458bda00742731350
+      internalID: 449503153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelarmory_82
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 66
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca3f7fb9a75ea7b4f94a90c37829cd62
+      internalID: 2032129370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelarmory_83
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 37
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81dfc66b05a948e41babb5ad53ff51cf
+      internalID: -1848526320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelarmory_84
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 34
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cac340e0d67dfd4dbee3058d5dabc19
+      internalID: -199695337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelarmory_85
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 5
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129863c5a379d1b42a26d16bf44a3617
+      internalID: -920676934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelarmory_86
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 7
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b671b1b9984149d48ac3d062af59c38b
+      internalID: 1010610228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelarmory_87
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 8
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900702a0ba757a64495d13d61eebb2c5
+      internalID: 1013339083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelarmory_88
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 6
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aabd66393f07389468be09fc64b3f8ff
+      internalID: 1003037337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelarmory_89
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 6
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe458a2fa9fca74b823c33d60dc2a97
+      internalID: -496874569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelarmory_90
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 6
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a7cdb73d6ff694a9a89e4af419f10e
+      internalID: 706037925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      pixelarmory_5: 1579288583
+      pixelarmory_38: -1992203149
+      pixelarmory_73: -1959158662
+      pixelarmory_84: -199695337
+      pixelarmory_54: 972520812
+      pixelarmory_28: 1541792650
+      pixelarmory_74: -16638446
+      pixelarmory_0: 1567340559
+      pixelarmory_20: 2140779839
+      pixelarmory_24: 665545694
+      pixelarmory_37: -156983379
+      pixelarmory_48: 1380054585
+      pixelarmory_55: -1230961595
+      pixelarmory_83: -1848526320
+      pixelarmory_7: 514021620
+      pixelarmory_11: -1115025424
+      pixelarmory_32: 769440126
+      pixelarmory_8: -963817505
+      pixelarmory_57: 608590442
+      pixelarmory_71: 1336080288
+      pixelarmory_59: -184157241
+      pixelarmory_21: 1017601235
+      pixelarmory_62: 55510951
+      pixelarmory_6: -308198650
+      pixelarmory_61: -726500321
+      pixelarmory_63: -762490061
+      pixelarmory_2: -1103843085
+      pixelarmory_18: -962133457
+      pixelarmory_77: -1904949244
+      pixelarmory_26: -1755665362
+      pixelarmory_16: 166844228
+      pixelarmory_87: 1013339083
+      pixelarmory_53: 294466841
+      pixelarmory_1: -1884755303
+      pixelarmory_15: -1783153585
+      pixelarmory_79: 1368509088
+      pixelarmory_35: 1218606635
+      pixelarmory_89: -496874569
+      pixelarmory_81: 449503153
+      pixelarmory_68: -568868535
+      pixelarmory_42: -1748189591
+      pixelarmory_9: -609491737
+      pixelarmory_36: -990935780
+      pixelarmory_75: 794911805
+      pixelarmory_13: -449778576
+      pixelarmory_12: -1831581304
+      pixelarmory_33: -867747101
+      pixelarmory_14: 1734838842
+      pixelarmory_70: 859722933
+      pixelarmory_19: -1823065994
+      pixelarmory_27: 939973552
+      pixelarmory_76: 1037604526
+      pixelarmory_23: 498336950
+      pixelarmory_47: -718900125
+      pixelarmory_29: -1271271297
+      pixelarmory_64: -1622990040
+      pixelarmory_40: 1530747101
+      pixelarmory_34: -668612550
+      pixelarmory_51: -695599575
+      pixelarmory_67: -1965313925
+      pixelarmory_43: 1165184919
+      pixelarmory_88: 1003037337
+      pixelarmory_45: -543122583
+      pixelarmory_22: -1540856343
+      pixelarmory_50: 438459578
+      pixelarmory_49: -917350110
+      pixelarmory_4: -298491643
+      pixelarmory_56: -1732268894
+      pixelarmory_78: -2098196672
+      pixelarmory_10: -1389910628
+      pixelarmory_41: -1962272690
+      pixelarmory_90: 706037925
+      pixelarmory_39: -80535931
+      pixelarmory_65: 1239611733
+      pixelarmory_60: -835708395
+      pixelarmory_72: 74438575
+      pixelarmory_66: -120735955
+      pixelarmory_17: 1240198112
+      pixelarmory_85: -920676934
+      pixelarmory_44: 265878726
+      pixelarmory_46: 323076876
+      pixelarmory_69: 2128520467
+      pixelarmory_80: 39105654
+      pixelarmory_25: 254206790
+      pixelarmory_31: 1943300242
+      pixelarmory_3: 530755954
+      pixelarmory_52: -1745459078
+      pixelarmory_82: 2032129370
+      pixelarmory_30: -442697757
+      pixelarmory_86: 1010610228
+      pixelarmory_58: 613457859
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

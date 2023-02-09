@@ -1,0 +1,905 @@
+fileFormatVersion: 2
+guid: 04abd8790f9a0c84bbbbd11b4bc39c23
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MeleeSlashes_0
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 807
+        width: 8
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0329f1f012ea54247b1868ba93039252
+      internalID: -212465893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSlashes_1
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 805
+        width: 98
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156d2b49baf1c19438b65eeaab62dc10
+      internalID: -2008269789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSlashes_2
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 824
+        width: 97
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9283fa4969b164c8db93bd53400e47
+      internalID: 581587134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSlashes_3
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 828
+        width: 110
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a811f6c8db80ef408717847fdebc155
+      internalID: 1434548490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSlashes_4
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 867
+        width: 140
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c0334e17263a24d9924c44ee185929
+      internalID: 1841945167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSlashes_5
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 825
+        width: 111
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142e0b15b2c82a248a88a6d9a1c95dc8
+      internalID: 150129492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSlashes_6
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 805
+        width: 110
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3427b0b9b61bc49ae7f9f4fabeb457
+      internalID: -2048822257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSlashes_7
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 814
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62adc1abc49163f4cbf29b70c97d5f0e
+      internalID: -1237057198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSlashes_8
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 823
+        width: 92
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa9f68c64af2314c984874d60fcd758
+      internalID: 1379082758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSlashes_9
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 801
+        width: 95
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16312b257d7b82429db9f8b5eb62829
+      internalID: -398153005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSlashes_10
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 857
+        width: 111
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e4ad94308ad624882760dd8810f5c1
+      internalID: -999590135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSlashes_11
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 805
+        width: 93
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c76fec919921e646a49508e5954f001
+      internalID: 2017480543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSlashes_12
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 808
+        width: 165
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e03f6c18a24f142b27ee3b5bc54870
+      internalID: 452537941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSlashes_13
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 615
+        width: 79
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ab750b5dba29b4f8e67385fb7aea73
+      internalID: 50051131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSlashes_14
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 604
+        width: 84
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8d3d25208cc9c4f89879ca76e8301f
+      internalID: 629324940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSlashes_15
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 631
+        width: 94
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a875affe0b64dc478666a250b88b234
+      internalID: 1014605668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSlashes_16
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 638
+        width: 98
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5149825e4e5647547a0d346e97cb8309
+      internalID: 753420711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSlashes_17
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 617
+        width: 88
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1617c3b189c085f439c3821d40118c46
+      internalID: 750481662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSlashes_18
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 663
+        width: 97
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c52f9315acdffa48b6f91b89ed945f7
+      internalID: -51192939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSlashes_19
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 659
+        width: 88
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774907fd80f8f36429fbf124a409d144
+      internalID: -169459205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSlashes_20
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 653
+        width: 86
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6fa04c37c8040241acfdb9d3eb60e21
+      internalID: -1108057437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSlashes_21
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 653
+        width: 102
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0318ce97831f144d9315245abfd7048
+      internalID: 985285142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSlashes_22
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 391
+        width: 127
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87985194dc759c04b90cafcc2dc8ce5e
+      internalID: 964493200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSlashes_23
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 415
+        width: 117
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e6e8d34154ea14a9f8ce9187c66e87
+      internalID: -1694019657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSlashes_24
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 395
+        width: 103
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c17c54e928563244b82efd5b42b8b7d
+      internalID: -2095707038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSlashes_25
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 430
+        width: 389
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f11a5dc9ad99e4db97e2d76d20ad78
+      internalID: -1455279563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSlashes_26
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 422
+        width: 78
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e141db98f820141834ab9d95daaa05
+      internalID: 769280822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSlashes_27
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 411
+        width: 67
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e1d9cebb955ec418f2ddb8f25d2499
+      internalID: 516701756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSlashes_28
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 422
+        width: 47
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a3e48636bb55e4cb26ff681a945f52
+      internalID: -881043407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSlashes_29
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 423
+        width: 53
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e105a9cfcd8ca9843b518a56d8c4353b
+      internalID: 1818153888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSlashes_30
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 191
+        width: 112
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e06f87b31fea3943b06e541310c9eb7
+      internalID: -1984905337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSlashes_31
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 207
+        width: 97
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d84284917be01b41827ccf057658098
+      internalID: 1305017105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSlashes_32
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 209
+        width: 139
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64fd08995a711a4cb9f6eb360df65e5
+      internalID: 234611903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSlashes_33
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 220
+        width: 112
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ccab5d7d9982e84bb5e5f13676606a0
+      internalID: 1351428576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeSlashes_34
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 238
+        width: 162
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227ae9ce94b6fc845b73da46b9c1be6a
+      internalID: 1045310049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MeleeSlashes_25: -1455279563
+      MeleeSlashes_19: -169459205
+      MeleeSlashes_30: -1984905337
+      MeleeSlashes_32: 234611903
+      MeleeSlashes_23: -1694019657
+      MeleeSlashes_13: 50051131
+      MeleeSlashes_9: -398153005
+      MeleeSlashes_17: 750481662
+      MeleeSlashes_11: 2017480543
+      MeleeSlashes_27: 516701756
+      MeleeSlashes_34: 1045310049
+      MeleeSlashes_5: 150129492
+      MeleeSlashes_28: -881043407
+      MeleeSlashes_31: 1305017105
+      MeleeSlashes_1: -2008269789
+      MeleeSlashes_4: 1841945167
+      MeleeSlashes_16: 753420711
+      MeleeSlashes_21: 985285142
+      MeleeSlashes_6: -2048822257
+      MeleeSlashes_0: -212465893
+      MeleeSlashes_15: 1014605668
+      MeleeSlashes_22: 964493200
+      MeleeSlashes_26: 769280822
+      MeleeSlashes_24: -2095707038
+      MeleeSlashes_33: 1351428576
+      MeleeSlashes_29: 1818153888
+      MeleeSlashes_8: 1379082758
+      MeleeSlashes_20: -1108057437
+      MeleeSlashes_14: 629324940
+      MeleeSlashes_12: 452537941
+      MeleeSlashes_3: 1434548490
+      MeleeSlashes_7: -1237057198
+      MeleeSlashes_18: -51192939
+      MeleeSlashes_2: 581587134
+      MeleeSlashes_10: -999590135
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
