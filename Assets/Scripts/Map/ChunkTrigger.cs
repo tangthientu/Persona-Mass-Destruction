@@ -18,8 +18,6 @@ public class ChunkTrigger : MonoBehaviour
         if (col.CompareTag("Player"))
         {
             mc.currentChunk = targetMap;
-
-            Debug.Log("enter");
         }
     }
 
@@ -30,7 +28,6 @@ public class ChunkTrigger : MonoBehaviour
             if (mc.currentChunk == targetMap)
             {
                 mc.currentChunk = null;
-                Debug.Log("spawn");
             }
         }
     }

@@ -20,7 +20,6 @@ public class MapController : MonoBehaviour
     float optimizerCooldown;
     public float optimizerCooldownDur;
 
-  
 
 
     void Start()
@@ -36,7 +35,7 @@ public class MapController : MonoBehaviour
 
     void ChunkChecker()
     {
-        if (!currentChunk)
+        if(!currentChunk)
         {
             return;
         }
@@ -108,8 +107,7 @@ public class MapController : MonoBehaviour
     }
 
     void SpawnChunk()
-    { 
-
+    {
         int rand = Random.Range(0, terrainChunks.Count);
         latestChunk = Instantiate(terrainChunks[rand], noTerrainPosition, Quaternion.identity);
         spawnedChunks.Add(latestChunk);
@@ -121,7 +119,7 @@ public class MapController : MonoBehaviour
 
         if (optimizerCooldown <= 0f)
         {
-            optimizerCooldown = optimizerCooldownDur;   
+            optimizerCooldown = optimizerCooldownDur;   //Check every 1 second to save cost, change this value to lower to check more times
         }
         else
         {

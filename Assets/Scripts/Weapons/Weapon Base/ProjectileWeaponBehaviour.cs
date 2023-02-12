@@ -5,10 +5,24 @@ using UnityEngine;
 public class ProjectileWeaponBehaviour : MonoBehaviour
 {
     // Start is called before the first frame update
+    public WeaponScriptableObject weaponData;
 
     protected Vector3 direction; //huong cua projectile
     public float destroyAfterSeconds;//xoa sau vai giay
-   protected virtual void Start()
+    // chi so hien tai
+    protected float currentDamage;
+    protected float currentSpeed;
+    protected float currentCooldownDuration;
+    protected float currentPierce;
+    private void Awake()
+    {
+        currentDamage = weaponData.Damage;
+        currentSpeed = weaponData.Speed;
+        currentCooldownDuration = weaponData.CooldownDuration;
+        currentPierce = weaponData.Pierce;
+    }
+
+    protected virtual void Start()
     {
         Destroy(gameObject,destroyAfterSeconds);//pha huy projectile sau vai giay
     }
@@ -58,5 +72,24 @@ public class ProjectileWeaponBehaviour : MonoBehaviour
         transform.localScale = scale;
         transform.rotation = Quaternion.Euler(rotation); 
 
+    }
+
+    protected void OnTriggerEnter2D(Collider2D collision)
+    {
+        //gay sat thuong khi va cham
+        if(collision.CompareTag("Enemy"))
+        {
+            EnemyStats enemy = collision.GetComponent<EnemyStats>();
+            enemy.takeDamage(currentDamage);
+            ReducePierce();
+        }
+    }
+    void ReducePierce()
+    {
+        --currentPierce;
+        if(currentPierce < 0)
+        {
+            Destroy(gameObject);
+        }
     }
 }

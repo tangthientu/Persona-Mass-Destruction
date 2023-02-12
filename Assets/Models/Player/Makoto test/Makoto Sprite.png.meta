@@ -47,7 +47,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 40
+  spritePixelsToUnits: 42
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -4814,11 +4814,11 @@ TextureImporter:
       Makoto Sprite_62: 512068027
       Makoto Sprite_90: 2078705446
       Makoto Sprite_141: 953073277
-      Makoto Sprite_150: 678811050
       Makoto Sprite_207: -1075024830
       Makoto Sprite_85: 1896177049
       Makoto Sprite_38: 1020772933
       Makoto Sprite_68: -1369175576
+      Makoto Sprite_150: 678811050
       Makoto Sprite_109: -215890113
       Makoto Sprite_142: 1114368229
       Makoto Sprite_119: -175473400

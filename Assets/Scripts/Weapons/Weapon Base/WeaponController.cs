@@ -6,18 +6,16 @@ public class WeaponController : MonoBehaviour
 {
     // Start is called before the first frame update
     [Header("Weapon Stats")]
-    public GameObject prefab;
-    public float damage;
-    public float speed;
-    public float cooldownDuration;
+    public WeaponScriptableObject weaponData;
+  
     float currentCooldown;
-    public int pierce;
+    
     protected PlayerMovement pm;
 
 
     protected virtual void Start()
     {
-        currentCooldown = cooldownDuration;
+        currentCooldown = weaponData.CooldownDuration;
         pm = FindObjectOfType<PlayerMovement>();
     }
 
@@ -32,6 +30,6 @@ public class WeaponController : MonoBehaviour
     }
     protected virtual void Attack()
     {
-        currentCooldown= cooldownDuration;
+        currentCooldown= weaponData.CooldownDuration;
     }
 }

@@ -6,7 +6,7 @@ public class PlayerMovement : MonoBehaviour
 {
     // Start is called before the first frame update
     Rigidbody2D rb;
-    public float moveSpeed; //toc do
+                    
     [HideInInspector]
     public float lastHorizontalVector;
     [HideInInspector]
@@ -15,6 +15,11 @@ public class PlayerMovement : MonoBehaviour
     public Vector2 moveDir;
     [HideInInspector]
     public Vector2 lastMovedVector;
+    //ref
+    public CharacterScriptableObject characterData;
+
+    
+
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
@@ -56,6 +61,6 @@ public class PlayerMovement : MonoBehaviour
     //ham di chuyen
     void Move()
     {
-        rb.velocity = new Vector2(moveDir.x * moveSpeed, moveDir.y * moveSpeed);
+        rb.velocity = new Vector2(moveDir.x * characterData.MoveSpeed, moveDir.y * characterData.MoveSpeed);
     }
 }

@@ -4,10 +4,10 @@ using UnityEngine;
 
 public class EnemyMovement : MonoBehaviour
 {
-    // Start is called before the first frame update
+    public EnemyScriptableObject enemyData;
 
     Transform player;
-    public float movementSpeed;
+    
     private SpriteRenderer sr;
     void Start()
     {
@@ -18,7 +18,7 @@ public class EnemyMovement : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        transform.position = Vector2.MoveTowards(transform.position, player.transform.position, movementSpeed * Time.deltaTime);
+        transform.position = Vector2.MoveTowards(transform.position, player.transform.position, enemyData.MovementSpeed * Time.deltaTime);
         sr.flipX = player.transform.position.x > gameObject.transform.position.x;
     }
 }

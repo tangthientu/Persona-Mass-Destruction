@@ -5,16 +5,16 @@ using UnityEngine;
 public class HalberdBehaviour : ProjectileWeaponBehaviour
 {
     // Start is called before the first frame update
-    HalberdController hc;
+
+
     protected override void Start()
     {
         base.Start();
-        hc = FindObjectOfType<HalberdController>();
-    }
 
+    }
     // Update is called once per frame
-    protected virtual void Update()
+    void Update()
     {
-        transform.position += direction * hc.speed * Time.deltaTime;// chinh huong cua vu khi bay ra
+        transform.position += direction * weaponData.Speed * Time.deltaTime;// chinh huong cua vu khi bay ra 
     }
 }
