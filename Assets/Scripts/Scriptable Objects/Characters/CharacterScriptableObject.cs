@@ -34,4 +34,11 @@ public class CharacterScriptableObject : ScriptableObject
     float projectileSpeed;//toc do vat the 
 
     public float ProjectileSpeed{ get => projectileSpeed; set => projectileSpeed = value; }
+
+    [SerializeField]
+    float pickupRange;
+    public float PickupRange { get => pickupRange;set => pickupRange = value; }
+
+    
+
 }

@@ -16,7 +16,7 @@ public class SwordBehaviour : MeleeWeaponBehaviour
     // Update is called once per frame
     protected virtual void Update()
     {
-        transform.position += direction * weaponData.Speed * Time.deltaTime;// chinh huong cua vu khi bay ra
+        transform.position += direction * currentSpeed * Time.deltaTime;// chinh huong cua vu khi bay ra
     }
     protected override void OnTriggerEnter2D(Collider2D collision)
     {

@@ -15,6 +15,6 @@ public class HalberdBehaviour : ProjectileWeaponBehaviour
     // Update is called once per frame
     void Update()
     {
-        transform.position += direction * weaponData.Speed * Time.deltaTime;// chinh huong cua vu khi bay ra 
+        transform.position += direction * currentSpeed * Time.deltaTime;// chinh huong cua vu khi bay ra 
     }
 }

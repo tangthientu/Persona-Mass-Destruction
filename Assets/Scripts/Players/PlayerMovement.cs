@@ -16,12 +16,13 @@ public class PlayerMovement : MonoBehaviour
     [HideInInspector]
     public Vector2 lastMovedVector;
     //ref
-    public CharacterScriptableObject characterData;
-
+    //public CharacterScriptableObject characterData;
+    PlayerStats player;
     
 
     void Start()
     {
+        player=GetComponent<PlayerStats>();
         rb = GetComponent<Rigidbody2D>();
         lastMovedVector = new Vector2(1,0f);// khong de last move trong neu khong dung yen se khong tan cong
     }
@@ -61,6 +62,6 @@ public class PlayerMovement : MonoBehaviour
     //ham di chuyen
     void Move()
     {
-        rb.velocity = new Vector2(moveDir.x * characterData.MoveSpeed, moveDir.y * characterData.MoveSpeed);
+        rb.velocity = new Vector2(moveDir.x * player.currentMoveSpeed, moveDir.y * player.currentMoveSpeed);
     }
 }

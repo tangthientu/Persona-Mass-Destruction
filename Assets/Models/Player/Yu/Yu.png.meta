@@ -1,0 +1,4381 @@
+fileFormatVersion: 2
+guid: fe58662daa7b36544b2c823789c8c3b4
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Yu_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1847
+        width: 189
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bfbd6a430e709c4db4780043da3246b
+      internalID: -540897827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_1
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 1857
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c556d021a4f808e4a8d07087cdf86fb9
+      internalID: -1281219832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_2
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 1857
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5529d6770d700654baab2e65ec642445
+      internalID: 1160476960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_3
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1740
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ff518d176d23f4e9c3f653d6c2640a
+      internalID: 1002977708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_4
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1740
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79025c6eade29a418f8e66ec6ea0aec
+      internalID: 586492398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_5
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1740
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4681864a114394ea16a150e1dc11d4
+      internalID: -1320937831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_6
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1740
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b882be3c155adf244bffe42a7f809e7d
+      internalID: -773857091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_7
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1740
+        width: 68
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411581a78f4d4b245b7841338ac3626e
+      internalID: -1646867443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_8
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1740
+        width: 68
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13682f7739953774680cfcd5ee83008f
+      internalID: -1186201026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_9
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1740
+        width: 66
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6daaabd29771e8043a4ecb5ffcd8a4b3
+      internalID: 1904874935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_10
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1740
+        width: 67
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954f2ff39af251c46a6836830421a79c
+      internalID: -753117422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_11
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1740
+        width: 68
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a705b3c5d6cea94a84f580181ce0622
+      internalID: 105059124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_12
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1740
+        width: 68
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b46858f8a85064bb8550a880785e12
+      internalID: 1098892353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_13
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1740
+        width: 66
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f5e6cb509caf9541a1b0943dde680ef
+      internalID: 167005243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_14
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 1740
+        width: 67
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a301b6e39fca56746953b71018f1daa1
+      internalID: 1794226116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_15
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1740
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb16b22023d7e044a8dc69631303496
+      internalID: -2121574075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_16
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 1745
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff5d477f4c5d3d74e84dc6d5b1e9088d
+      internalID: 1887158554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_17
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 1738
+        width: 31
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad0d974d36532a4eb4910577d282b09
+      internalID: -875251938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_18
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 1740
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e6da5ad663a354abff14cceefc5748
+      internalID: 1856607879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_19
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 1740
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd41334041169542ad5c009bbb40bb3
+      internalID: -1977531109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_20
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 1740
+        width: 60
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 041832cf8664a3e479f42458939ac2cf
+      internalID: -1509415766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_21
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 1740
+        width: 26
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eefaabfe2c728b84180f681278398c56
+      internalID: -1348625018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_22
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 1739
+        width: 24
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086e5a8d933a69e438f95a2abb122734
+      internalID: 965975445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_23
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1660
+        width: 68
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c35a4a4ac87ac3428e4cf698141f86f
+      internalID: -254792719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_24
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1643
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb49644dae159245ade7b4b6fa5ec4a
+      internalID: 975688353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_25
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1646
+        width: 50
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c2248e83810c1438d2e678d7c59e5c
+      internalID: 1988375578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_26
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1645
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1274b6853d7ce4f9e79a4d8f543f78
+      internalID: 872343728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_27
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1636
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a818b4f2671a9fa459378cdd3969b59a
+      internalID: 1311671214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_28
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1646
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66256fd238c193740ba81e428804e51b
+      internalID: -1763224403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_29
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1653
+        width: 75
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01669e768c118894ba722b53d8f357f8
+      internalID: 1557074298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_30
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1639
+        width: 77
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1163a6c30f3f2034fbe7fd27d8315b93
+      internalID: 1811607027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_31
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 1641
+        width: 62
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b0ae5e2f76cad4a931f876ea300c1d
+      internalID: 1397947760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_32
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1646
+        width: 60
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa341934e70bb843a58f9ff6d8d24e7
+      internalID: 1648792768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_33
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 1646
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29eb9f98aa3838442b64a8969826b138
+      internalID: -934513597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_34
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1646
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3511e8b2993cd46a12212d6ccfeb56
+      internalID: -451896235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_35
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 1646
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5409d1177192b44cbcab85100a3348d
+      internalID: 617826660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_36
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 1646
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372af61eae8eefd4fb976a93b0fcadc6
+      internalID: -224039323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_37
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 1646
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad72c8bc59a99d448a1722392697b391
+      internalID: 1402673333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_38
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 1646
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6ee7a2c87d1d043ae81524ec9c163c
+      internalID: -964989941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_39
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 1646
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb1c010683e98b04286cf6e696a0f9c0
+      internalID: 154283741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_40
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 1646
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf085ce0dd0abe4c845069db39e5b38
+      internalID: 532199215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_41
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1546
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef556ba6d46e29458aa207fd722e295
+      internalID: 521901958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_42
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1546
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3a84f963ed2a043a5f3d7c15ee0476
+      internalID: 1895574296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_43
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1546
+        width: 63
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcae44755c6a87346ad4b9357c9df36e
+      internalID: -1656235243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_44
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1546
+        width: 63
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd335d90d7af7c458f01707f6c0e273
+      internalID: 1449923276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_45
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1546
+        width: 45
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f8525adbb69e842b27ccb60f8f2114
+      internalID: -100393277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_46
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1540
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79c55753d979434a988e05e9e9ae203
+      internalID: 321001058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_47
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1543
+        width: 85
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2fe27cd8229e6643a921d3f4f15f9cc
+      internalID: -2114510334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_48
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1542
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0abe2699baa60f544b33fee30d252e8e
+      internalID: 1917853871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_49
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 1546
+        width: 53
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3320de6678324644fa0381f6bc780dea
+      internalID: 2147086264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_50
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 1546
+        width: 117
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7cb0bf538148ca4da3ffc4d6346fc15
+      internalID: -2119879217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_51
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1533
+        width: 35
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b62c2660fcb4d4992eb57c0c3aa0e4
+      internalID: -1748254934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_52
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1546
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6fda8eedfeda645924a35f47277579
+      internalID: -1445290152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_53
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 1546
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724380408baf5454cb3edd9bc0052f64
+      internalID: -2061530477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_54
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 1546
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c87d8f0760183448a867ae1349e4d9
+      internalID: -1787157227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_55
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 1553
+        width: 31
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32ae4f9004a4e44ea965152ad0e69d8
+      internalID: 1731508378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_56
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 1549
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f41696466c8704f88d44ef1fe799b4
+      internalID: -1668208860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_57
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 1547
+        width: 57
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a2e11e311663f43b1ff220336e3b3b
+      internalID: 1008674212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_58
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1462
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa6fdb835020264e94bd6d663e9afdb
+      internalID: 676977308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_59
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1458
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad04ae13da6f694a8cd28f3c1d5ed44
+      internalID: 917686743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_60
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1465
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37010437e00088418699c62264d2b1a
+      internalID: -651846594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_61
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1457
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c1417e48a8b50048950d6829fda9fdd
+      internalID: 1165707457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_62
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1458
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a0e427151b5b74d889255fe454c7fe
+      internalID: -1899492278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_63
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1458
+        width: 65
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 923972aaefcf7664581dfa3acd7d8171
+      internalID: 1541584318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_64
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1457
+        width: 59
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a6717bbc8fec14daf7656227bf57e2
+      internalID: 1133145026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_65
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1459
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444e31b2b87544e4597b4f93e3f1ae57
+      internalID: -677959280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_66
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1456
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae4d7a4e841f4b41a5619c0c23bfd9f
+      internalID: -228423806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_67
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1452
+        width: 65
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ffaab4e9494462429795547dc90f77c
+      internalID: -1579993933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_68
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1449
+        width: 38
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f5d0bf7b335214a81e91e06fecc35d
+      internalID: -884157935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_69
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1458
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093918808fe7dc64e93699bc7e57a444
+      internalID: -1156534023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_70
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1458
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c179a5d9c8a14e42a88ea47240484d5
+      internalID: 1661130153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_71
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1454
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a8b4ba2c6666a4ba4ccea0c5f5a2fd
+      internalID: -1972109197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_72
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1333
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef4a3eaea3ba8334ea8e38294cbaceab
+      internalID: 1639408478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_73
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1333
+        width: 81
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e1dc1ee4630c9459edc61fcc6897ad
+      internalID: -888132549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_74
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1333
+        width: 82
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993a083c13b503145a90da728ba1161d
+      internalID: -357454475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_75
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1333
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9afa33f0f88314bb0e46997550cdc2
+      internalID: -71797860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_76
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1344
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ee08352a82b834381b66e5992174ad
+      internalID: 2078173137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_77
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1344
+        width: 38
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215b319bfea11c441bf9931143878997
+      internalID: 390965124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_78
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1344
+        width: 38
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56450b9bce92734682439b42ad5015a
+      internalID: -823115717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_79
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1344
+        width: 41
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8dbc07957a5c94eac9b4afd65b451b
+      internalID: 799896740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_80
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1344
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd10981cb7363b041a4aa4110ee88a3b
+      internalID: 576890975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_81
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 1344
+        width: 54
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499bc5d195e62fe4390d71bd1871ce39
+      internalID: -1393007453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_82
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1341
+        width: 64
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236e8b970c86acc42b84192f5a3f3909
+      internalID: 169421077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_83
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1341
+        width: 89
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1e9557e79359d4cb2fb6382bfede52
+      internalID: -1151011430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_84
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 1342
+        width: 55
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736d55426b3849e47947e53e9d2b0248
+      internalID: 1404594607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_85
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1340
+        width: 82
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f4d133f0923564294a14434eeed48f
+      internalID: 211223414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_86
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 1343
+        width: 82
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d960ab14c08904f900049d7a5ba2b3
+      internalID: -594605173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_87
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 1342
+        width: 92
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c49ea345af4da468d5a31e6a7a4882
+      internalID: -1744965966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_88
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 1342
+        width: 80
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 810bb3ea17b36554bbb057faba189fcd
+      internalID: 1394915741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_89
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 1346
+        width: 83
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8840699510c70b4a905314dce56cd68
+      internalID: 240568644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_90
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 1337
+        width: 61
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35770279306a1bc4dbc604e436389402
+      internalID: 1449986598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_91
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1241
+        width: 43
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf4be8f7a614ea46a6dfc210f9072c5
+      internalID: 227079648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_92
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1226
+        width: 48
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a39bde8473c5c4e9e4dce757a22d3f
+      internalID: -1479794116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_93
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1240
+        width: 81
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240ca309cc955ed4cb84f7fd45a467a3
+      internalID: -1333566994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_94
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1241
+        width: 81
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fed12485a86a914aaabad6450ce721c
+      internalID: -1301490459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_95
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1238
+        width: 91
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52eaa4664ddf5e4eb6b3083d21001a6
+      internalID: -1640938798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_96
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1245
+        width: 51
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386acaaed35811540be778fd723b979e
+      internalID: -188869795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_97
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1215
+        width: 50
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b9d73754a8def4eb7b3020709e4927
+      internalID: 2071699703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_98
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1215
+        width: 52
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a23a659c64d41b4db1e0f860205696a
+      internalID: -430858789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_99
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1224
+        width: 52
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf28afe6cd504e34db100ab356dbdbeb
+      internalID: 1261505047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_100
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1129
+        width: 43
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed5313f3c75a67409ba4c0f916727a1
+      internalID: 1519265549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_101
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1122
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62287421eecec024ab09489e16633a02
+      internalID: -2032009709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_102
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1130
+        width: 33
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb55ea0f8cc5bc42a0485b35a22e386
+      internalID: 1207692168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_103
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1130
+        width: 80
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5747041c4213bc4a8d1ab1a6d0006ce
+      internalID: 148570447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_104
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1130
+        width: 33
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa73b6ccdfe36e4485045b32a5cca35
+      internalID: -1616722397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_105
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1035
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f45c8dddfa57c498b92f812faac9ff
+      internalID: 686311941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_106
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1040
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aec15dc1bef130439848ade8619da17
+      internalID: -1724710498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_107
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1045
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d0437a3ba0d0d4aadf6fe9ac9761d6
+      internalID: -719366409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_108
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1039
+        width: 116
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 698cdc4f5414d214d8db0517bcbbc499
+      internalID: 1808678689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_109
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1029
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876be7aaf9d46084a8c19a7195f81490
+      internalID: 2142094660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_110
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 925
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1382fb9dabdf341805275eb9b60507
+      internalID: -698071732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_111
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 925
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aec4fb99d4e5674fa989202513521a4
+      internalID: 650449792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_112
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 925
+        width: 54
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d5440794f2c7f46a5072a05aacd70d
+      internalID: 2120612986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_113
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 921
+        width: 50
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e07afadac172a0449f4fe9823693a99
+      internalID: 2029248806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_114
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 926
+        width: 163
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c6aaaea02cffe478230e3368784f19
+      internalID: 256173099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_115
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 954
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d5833eaf9874b4e9258c88d9d6e822
+      internalID: -158535809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_116
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 946
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f3d0504cecbdf4b861b0fae5cc8080
+      internalID: -94316862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_117
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 951
+        width: 43
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee71d5fc5f38da4a92b2ce3ce4ba035
+      internalID: 1369429222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_118
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 821
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c31eab68534fc4097084316408d5ee
+      internalID: -1864127353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_119
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 821
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4372828197edc040858c6a87b4befa0
+      internalID: 1995736290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_120
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 821
+        width: 95
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62875ca9771172e4384fd7a91f3e8caf
+      internalID: 1804546303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_121
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 821
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d2d6f9a7a52cb4097f0cff9fffb420
+      internalID: 768647364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_122
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 818
+        width: 96
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd869a54fd6fe04286896af81cb9de7
+      internalID: -1966756397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_123
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 818
+        width: 93
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fbf8a5ddc059a948b3e3ab2a79383b6
+      internalID: 1557757714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_124
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 821
+        width: 94
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30c74450fea7c140b57b2c3407c355f
+      internalID: 984944805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_125
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 729
+        width: 50
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b54cfccebc6c234493c395bd8ac2b8d
+      internalID: -291693652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_126
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 729
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a62089a88d25246b0aeb3b9eb4857b
+      internalID: -1488374962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_127
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 729
+        width: 83
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb025cf68563e44c87809cdc042fa8f
+      internalID: 1472043251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_128
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 617
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab34cfdecdcaa648ab6bb97409a7a53
+      internalID: -2050668735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_129
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 617
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432a811c336f7ed4499952230a1e2561
+      internalID: 610429587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_130
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 617
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d204bc5fae3f841ba1c9b6a36eb95a
+      internalID: -925592147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_131
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 617
+        width: 56
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eafaa848d8c8134f95103803bf37cfc
+      internalID: 1191847216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_132
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 617
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e736af5a4da2390498ecf2e171680738
+      internalID: -872072400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_133
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 617
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a82e9ac8fc4e3439ea8f69634aa2b3
+      internalID: 774875815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_134
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 618
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc999336c77bb0d47aa86a4c120866c9
+      internalID: -1497158662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_135
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 621
+        width: 145
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c8db2f0bedfc64ea877a4b7b62a16e
+      internalID: 1046875608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_136
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 623
+        width: 98
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8767bdfb148ca6d4fb65fce7e8d5f419
+      internalID: 844546556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_137
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 622
+        width: 101
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d99d1f47ae6ad745b8986ec06cba49a
+      internalID: 754691974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_138
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 630
+        width: 98
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af2e76c0d3fc66e40a5ce9cb13e29e5c
+      internalID: -205062730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_139
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 631
+        width: 91
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9fcc16843f06654cb50a36b4f0aef73
+      internalID: 765738526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_140
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 505
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da0ee3c1dd53b34aad0f5236b3256e2
+      internalID: -254881779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_141
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 505
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e81823a6aba8746adb3919820e4626
+      internalID: 790549523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_142
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 505
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0421ddb1511cb342a515572ad707bff
+      internalID: -1418830945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_143
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 505
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6cb606d5f2300e4faf86e4e064cbc33
+      internalID: 1018744157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_144
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 505
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c6c595f3d2b63a43ad01acfadde9f3a
+      internalID: -1267481741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_145
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 517
+        width: 80
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4dfc1f851885141aa052b8d474be65
+      internalID: 1427350437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_146
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 509
+        width: 59
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f9b32d517157b499749f84869d30c1
+      internalID: 2635341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_147
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 509
+        width: 58
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd741cea80611d47a9c1286d725c09b
+      internalID: -295492574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_148
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 503
+        width: 63
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601ef34b8a6a36940b9030f0d8e7c5e7
+      internalID: 271087883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_149
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 357
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea3e9006314f9a4780730cc52e410b4
+      internalID: 161712442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_150
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 357
+        width: 86
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45bf2af88aec5cb4a840923d7fd11e6e
+      internalID: 41928457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_151
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 357
+        width: 67
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc0051880f6b5349b04d607c17db6d3
+      internalID: -892719981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_152
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 357
+        width: 27
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ebbe9e27b539349bc19b6257346735
+      internalID: -1713639944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_153
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 357
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e3e258285a3734f953f74305436f1e
+      internalID: -119695214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_154
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 357
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5acd1d1c8b117604fa87d1bbe0c44092
+      internalID: 418019244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_155
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 357
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0696a0ac9513f5b4cbaf0b71cd4e2fcc
+      internalID: -297409831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_156
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 357
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4437bf8cc751e4f85db7859844e409
+      internalID: 2021130645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_157
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 373
+        width: 153
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: badca14755593814ab97dcf2f31f7495
+      internalID: -95179049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_158
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 372
+        width: 71
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4174aa24089ec6a44b22f54e6f1ce4e6
+      internalID: 1783426294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_159
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 371
+        width: 72
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574f730533fecbc4899dbf96e0873962
+      internalID: -785334828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_160
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 371
+        width: 101
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d12ac9c129ef9040ab80a6962198951
+      internalID: -650346276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_161
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 371
+        width: 76
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de30a0736cdfe8439d5772edc756329
+      internalID: 397531683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_162
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 357
+        width: 70
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971a6060082ae184ab237cfffd488ad6
+      internalID: -64353216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_163
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 371
+        width: 69
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186abb2fde69478449cc3b2c282c79f6
+      internalID: -852129818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_164
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 371
+        width: 101
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bbd002c4f77dfa41b8a6d7651031baf
+      internalID: -338256328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_165
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 371
+        width: 73
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7fe60ae2a36e0740ba52f29f1fd5fe7
+      internalID: -1993052303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_166
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 371
+        width: 130
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a021deb78b281bf4eb67c828ded6e7de
+      internalID: 480863793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_167
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 218
+        width: 59
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac821ad976f5f24b88c73a32e068f09
+      internalID: 526476384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_168
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 217
+        width: 70
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee4386757002814a9aff439be360e3d
+      internalID: 1204452556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_169
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 217
+        width: 57
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbbb9169323608346a11f1a36b61c517
+      internalID: -1760228297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_170
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 217
+        width: 71
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fadb450662f8c314a82c37fc8931a8a3
+      internalID: -446482409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_171
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 121
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 583873c167f3e6844a757931f56b986e
+      internalID: -323975940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_172
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 121
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bedb5b2f98c56074983b70ada9917e25
+      internalID: 1485297633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_173
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 121
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22d888d7bc74d04da257a99536cd77f
+      internalID: -1426231921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_174
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 121
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0772e3a9ad73a284a83845969bcb4140
+      internalID: -1973700751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_175
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 121
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b26aa4ba74c0de48ac6ea2e31e1c5c9
+      internalID: -169398462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_176
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 121
+        width: 51
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f081284490281ad48999277673313037
+      internalID: 6846117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_177
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 121
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d50c1a5e3d9ee448476e343aade740
+      internalID: 271561938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_178
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 121
+        width: 123
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b0f0e4106e91c4894c30b75645ec9c
+      internalID: -94465650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_179
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 121
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319c312b3c5759b489acd8b1d24b12eb
+      internalID: 287813537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_180
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 121
+        width: 62
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43314ed38985025499a5350eb71626dc
+      internalID: -420812694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_181
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 121
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d85c7dd0e27254a866cf2a2396c6ed
+      internalID: 110039639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_182
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 121
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82fdf72a5d895f842b2117847defd9a9
+      internalID: 1600219352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_183
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 129
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd137c155f47594b91fb3fe21b27864
+      internalID: 275934847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_184
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 129
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81382eb92a7273847976cc31c316fb51
+      internalID: 622050365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_185
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 18
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb44dde9cc3d95e4e9d01a893724ea57
+      internalID: 1659578421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_186
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 23
+        width: 49
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9b17861233d484faae20316a74cb58
+      internalID: -1150986875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_187
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 23
+        width: 39
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9a76e561ea0f24e937d113a9895e47
+      internalID: -959049013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_188
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 23
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1524fab799b98b94abb0f7394d419ee9
+      internalID: 448407010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_189
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 23
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ec600a10817644fbe7200108a3fe02
+      internalID: -1147125370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_190
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 23
+        width: 25
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2868a31156ebf644abf2fb6674da35e
+      internalID: 951380031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_191
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 25
+        width: 91
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2f95a6d67931f41b39436a7fe9ed82
+      internalID: 377764013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yu_192
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 26
+        width: 86
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf115e7546c8cd4493f6a438f1f19ea
+      internalID: -820558123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Yu_38: -964989941
+      Yu_74: -357454475
+      Yu_80: 576890975
+      Yu_141: 790549523
+      Yu_138: -205062730
+      Yu_178: -94465650
+      Yu_187: -959049013
+      Yu_191: 377764013
+      Yu_29: 1557074298
+      Yu_31: 1397947760
+      Yu_171: -323975940
+      Yu_93: -1333566994
+      Yu_4: 586492398
+      Yu_23: -254792719
+      Yu_126: -1488374962
+      Yu_164: -338256328
+      Yu_9: 1904874935
+      Yu_131: 1191847216
+      Yu_129: 610429587
+      Yu_169: -1760228297
+      Yu_13: 167005243
+      Yu_163: -852129818
+      Yu_79: 799896740
+      Yu_33: -934513597
+      Yu_5: -1320937831
+      Yu_24: 975688353
+      Yu_2: 1160476960
+      Yu_118: -1864127353
+      Yu_115: -158535809
+      Yu_132: -872072400
+      Yu_67: -1579993933
+      Yu_49: 2147086264
+      Yu_189: -1147125370
+      Yu_102: 1207692168
+      Yu_185: 1659578421
+      Yu_77: 390965124
+      Yu_184: 622050365
+      Yu_78: -823115717
+      Yu_133: 774875815
+      Yu_103: 148570447
+      Yu_167: 526476384
+      Yu_106: -1724710498
+      Yu_48: 1917853871
+      Yu_72: 1639408478
+      Yu_112: 2120612986
+      Yu_160: -650346276
+      Yu_180: -420812694
+      Yu_15: -2121574075
+      Yu_43: -1656235243
+      Yu_176: 6846117
+      Yu_181: 110039639
+      Yu_39: 154283741
+      Yu_175: -169398462
+      Yu_140: -254881779
+      Yu_63: 1541584318
+      Yu_22: 965975445
+      Yu_92: -1479794116
+      Yu_69: -1156534023
+      Yu_81: -1393007453
+      Yu_54: -1787157227
+      Yu_144: -1267481741
+      Yu_35: 617826660
+      Yu_190: 951380031
+      Yu_111: 650449792
+      Yu_139: 765738526
+      Yu_47: -2114510334
+      Yu_21: -1348625018
+      Yu_36: -224039323
+      Yu_162: -64353216
+      Yu_68: -884157935
+      Yu_75: -71797860
+      Yu_183: 275934847
+      Yu_11: 105059124
+      Yu_44: 1449923276
+      Yu_37: 1402673333
+      Yu_0: -540897827
+      Yu_10: -753117422
+      Yu_28: -1763224403
+      Yu_12: 1098892353
+      Yu_60: -651846594
+      Yu_117: 1369429222
+      Yu_87: -1744965966
+      Yu_66: -228423806
+      Yu_17: -875251938
+      Yu_145: 1427350437
+      Yu_161: 397531683
+      Yu_45: -100393277
+      Yu_65: -677959280
+      Yu_95: -1640938798
+      Yu_26: 872343728
+      Yu_89: 240568644
+      Yu_70: 1661130153
+      Yu_8: -1186201026
+      Yu_124: 984944805
+      Yu_177: 271561938
+      Yu_34: -451896235
+      Yu_76: 2078173137
+      Yu_150: 41928457
+      Yu_25: 1988375578
+      Yu_30: 1811607027
+      Yu_14: 1794226116
+      Yu_146: 2635341
+      Yu_113: 2029248806
+      Yu_148: 271087883
+      Yu_152: -1713639944
+      Yu_156: 2021130645
+      Yu_130: -925592147
+      Yu_58: 676977308
+      Yu_157: -95179049
+      Yu_134: -1497158662
+      Yu_32: 1648792768
+      Yu_174: -1973700751
+      Yu_71: -1972109197
+      Yu_83: -1151011430
+      Yu_94: -1301490459
+      Yu_51: -1748254934
+      Yu_109: 2142094660
+      Yu_137: 754691974
+      Yu_151: -892719981
+      Yu_42: 1895574296
+      Yu_110: -698071732
+      Yu_99: 1261505047
+      Yu_52: -1445290152
+      Yu_57: 1008674212
+      Yu_55: 1731508378
+      Yu_73: -888132549
+      Yu_46: 321001058
+      Yu_16: 1887158554
+      Yu_192: -820558123
+      Yu_147: -295492574
+      Yu_84: 1404594607
+      Yu_59: 917686743
+      Yu_97: 2071699703
+      Yu_159: -785334828
+      Yu_91: 227079648
+      Yu_122: -1966756397
+      Yu_154: 418019244
+      Yu_85: 211223414
+      Yu_27: 1311671214
+      Yu_40: 532199215
+      Yu_50: -2119879217
+      Yu_173: -1426231921
+      Yu_127: 1472043251
+      Yu_125: -291693652
+      Yu_153: -119695214
+      Yu_121: 768647364
+      Yu_123: 1557757714
+      Yu_114: 256173099
+      Yu_158: 1783426294
+      Yu_90: 1449986598
+      Yu_18: 1856607879
+      Yu_19: -1977531109
+      Yu_172: 1485297633
+      Yu_165: -1993052303
+      Yu_96: -188869795
+      Yu_128: -2050668735
+      Yu_82: 169421077
+      Yu_41: 521901958
+      Yu_107: -719366409
+      Yu_64: 1133145026
+      Yu_3: 1002977708
+      Yu_119: 1995736290
+      Yu_105: 686311941
+      Yu_6: -773857091
+      Yu_166: 480863793
+      Yu_100: 1519265549
+      Yu_155: -297409831
+      Yu_142: -1418830945
+      Yu_86: -594605173
+      Yu_135: 1046875608
+      Yu_149: 161712442
+      Yu_120: 1804546303
+      Yu_20: -1509415766
+      Yu_98: -430858789
+      Yu_170: -446482409
+      Yu_136: 844546556
+      Yu_168: 1204452556
+      Yu_61: 1165707457
+      Yu_186: -1150986875
+      Yu_7: -1646867443
+      Yu_56: -1668208860
+      Yu_53: -2061530477
+      Yu_104: -1616722397
+      Yu_179: 287813537
+      Yu_116: -94316862
+      Yu_62: -1899492278
+      Yu_88: 1394915741
+      Yu_108: 1808678689
+      Yu_188: 448407010
+      Yu_182: 1600219352
+      Yu_1: -1281219832
+      Yu_101: -2032009709
+      Yu_143: 1018744157
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

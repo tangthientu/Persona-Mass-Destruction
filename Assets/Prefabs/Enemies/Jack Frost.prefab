@@ -78,7 +78,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 10
+  m_SortingOrder: 2
   m_Sprite: {fileID: -2063999001, guid: ff1be620d6385224d9016fbf9b98eb6c, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -122,7 +122,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 24bdf68c5421b0047bbeedff65815645, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  enemyData: {fileID: 11400000, guid: fc2432c100dbc1a4d861092d33803072, type: 2}
 --- !u!114 &-9091122102643811268
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -136,6 +135,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   enemyData: {fileID: 11400000, guid: fc2432c100dbc1a4d861092d33803072, type: 2}
+  currentHealth: 0
+  currentMoveSpeed: 0
+  currentDamage: 0
+  currentDeathStatus: 0
 --- !u!114 &3457268724399789936
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -151,7 +154,7 @@ MonoBehaviour:
   drops:
   - name: EXP Green
     itemPrefabs: {fileID: 2018765146675390367, guid: beb3148cb23529443a253d755686e75b, type: 3}
-    dropRate: 50
+    dropRate: 100
 --- !u!61 &-4953744039285524230
 BoxCollider2D:
   m_ObjectHideFlags: 0
