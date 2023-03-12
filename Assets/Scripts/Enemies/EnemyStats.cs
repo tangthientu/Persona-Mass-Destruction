@@ -15,11 +15,25 @@ public class EnemyStats : MonoBehaviour
     public float currentDamage;
     [HideInInspector]
     public bool currentDeathStatus;
+
+
+    public float despawnDistance = 20f;
+    Transform player;
+
+
+
     public void Start()
     {
+        player = FindObjectOfType<PlayerStats>().transform;
         am = GetComponent<Animator>();
     }
-    void Awake()
+	void Update()
+	{
+        if (Vector2.Distance(transform.position, player.position) >= despawnDistance) {
+            ReturnEnemy();
+        }
+	}
+	void Awake()
     {
         currentHealth = enemyData.MaxHealth;
         currentMoveSpeed = enemyData.MovementSpeed;
@@ -57,5 +71,15 @@ public class EnemyStats : MonoBehaviour
             player.TakeDamage(currentDamage);// tru mau nguoi choi bang sat thuong hien tai  thong qua take damage()
         }
     }
-   
+	private void OnDestroy()
+	{
+        EnemySpawner es = FindObjectOfType<EnemySpawner>();
+        es.OnEnemyKilled();
+	}
+    void ReturnEnemy()
+	{
+
+        EnemySpawner es = FindObjectOfType<EnemySpawner>();
+        transform.position = player.position + es.relativesSpawnPoints[Random.Range(0, es.relativesSpawnPoints.Count)].position;
+	}
 }
