@@ -1,11 +1,13 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PlayerStats : MonoBehaviour
 {
     // Start is called before the first frame update
     CharacterScriptableObject characterData;
+
     
     public float currentHealth;
     [HideInInspector]
@@ -115,6 +117,7 @@ public class PlayerStats : MonoBehaviour
     }
     public void Kill()
     {
+        SceneManager.LoadScene("GameOver");
         Debug.Log("player died");
     }
 
