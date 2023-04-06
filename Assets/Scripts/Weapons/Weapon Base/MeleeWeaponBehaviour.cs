@@ -22,6 +22,11 @@ public class MeleeWeaponBehaviour : MonoBehaviour
         currentCooldownDuration = weaponData.CooldownDuration;
         currentPierce = weaponData.Pierce;
     }
+    public float GetCurrentDamage()
+    {
+        return currentDamage *= FindObjectOfType<PlayerStats>().currentMight;
+    }
+
     protected virtual void Start()
     {
         Destroy(gameObject, destroyAfterSeconds);//pha huy projectile sau vai giay
@@ -102,7 +107,7 @@ public class MeleeWeaponBehaviour : MonoBehaviour
         if (collision.CompareTag("Enemy"))
         {
             EnemyStats enemy = collision.GetComponent<EnemyStats>();
-            enemy.takeDamage(currentDamage);
+            enemy.takeDamage(GetCurrentDamage());
             Debug.Log("took it");
             
         }
