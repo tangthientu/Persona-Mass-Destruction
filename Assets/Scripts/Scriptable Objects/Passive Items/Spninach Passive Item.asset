@@ -12,4 +12,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4fbfe26796c985a4e88c59065f8e207e, type: 3}
   m_Name: Spninach Passive Item
   m_EditorClassIdentifier: 
-  multipler: 1
+  multipler: 10
