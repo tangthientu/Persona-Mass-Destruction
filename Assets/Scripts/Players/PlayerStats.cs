@@ -20,8 +20,8 @@ public class PlayerStats : MonoBehaviour
     public float currentProjectileSpeed;
     [HideInInspector]
     public float currentPickupRange;
-    //vu khi khoi diem
-    public List<GameObject> spawnedWeapons;
+
+  
 
     [Header("I-frames")]//khung hinh bat hoai
     public float inviciblityDuration;
@@ -43,11 +43,20 @@ public class PlayerStats : MonoBehaviour
         public int experienceCapIncrease;
     }
     public List<LevelRange> levelRanges;
+    InventoryManager inventory;
+    public int weaponIndex;
+    public int passiveItemIndex;
+    // public GameObject secondWeaponTest;
+    public GameObject firstPassiveItemTest, secondPassiveItemTest;
+
 
     private void Awake()
     {
         characterData = CharacterSelector.GetData();
         CharacterSelector.instance.DestroySingleton();
+        inventory = GetComponent<InventoryManager>();
+
+
         //gan' bien
         currentHealth = characterData.MaxHealth;
         currentMoveSpeed = characterData.MoveSpeed;
@@ -57,6 +66,9 @@ public class PlayerStats : MonoBehaviour
         currentPickupRange = characterData.PickupRange;
         //spawn vu khi
         SpawnWeapon(characterData.StartingWeapon);
+        // SpawnWeapon(secondWeaponTest);
+        SpawnPassiveItem(firstPassiveItemTest);
+        SpawnPassiveItem(secondPassiveItemTest);
     }
 
     private void Start()
@@ -148,11 +160,29 @@ public class PlayerStats : MonoBehaviour
 
     public void SpawnWeapon(GameObject weapon)//spawn ra vu khi khoi dau
     {
-        
+        if(weaponIndex >= inventory.weaponSlots.Count - 1)
+        {
+            Debug.LogError("Inventory sots already full");
+            return;
+        }
 
         GameObject spawnedWeapon = Instantiate(weapon, transform.position, Quaternion.identity);//spawn vu khi
         spawnedWeapon.transform.SetParent(transform);// chinh cho vu khi la con cua nguoi choi
-        spawnedWeapons.Add(spawnedWeapon);// them vao danh sach vu khi da spawn
+        inventory.AddWeapon(weaponIndex, spawnedWeapon.GetComponent<WeaponController>());
+        weaponIndex++;
+    }
+    public void SpawnPassiveItem(GameObject passiveItem)//spawn ra vu khi khoi dau
+    {
+        if(passiveItemIndex >= inventory.passiveItemSlots.Count - 1)
+        {
+            Debug.LogError("Inventory sots already full");
+            return;
+        }
+
+        GameObject spawnedPassiveItem = Instantiate(passiveItem, transform.position, Quaternion.identity);//spawn vu khi
+        spawnedPassiveItem.transform.SetParent(transform);// chinh cho vu khi la con cua nguoi choi
+        inventory.AddPassiveItem(passiveItemIndex, spawnedPassiveItem.GetComponent<PassiveItem>());
+        passiveItemIndex++;
     }
    
 }
