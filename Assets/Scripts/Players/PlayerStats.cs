@@ -27,6 +27,8 @@ public class PlayerStats : MonoBehaviour
     public float inviciblityDuration;
     float invicibilityTimer;
     bool isInvicible;
+    // thanh mau
+    public HealthBar healthBar; 
 
 
     [Header("Experience/Level")]
@@ -60,7 +62,7 @@ public class PlayerStats : MonoBehaviour
     private void Start()
     {
         experienceCap = levelRanges[0].experienceCapIncrease;// chinh cho gioi han level de len cap khong = 0
-        
+        healthBar.SetMaxHealth(currentHealth);
     }
     private void Update()
     {
@@ -113,7 +115,7 @@ public class PlayerStats : MonoBehaviour
                 Kill();
             }
         }
-
+        healthBar.SetHealth(currentHealth); // cap nhat thanh mau
     }
     public void Kill()
     {
