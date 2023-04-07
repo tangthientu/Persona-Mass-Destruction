@@ -9,11 +9,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 72a72f6629eb6ef438ea1f16f3db8599, type: 3}
-  m_Name: Sword Weapon
+  m_Script: {fileID: 11500000, guid: 4fbfe26796c985a4e88c59065f8e207e, type: 3}
+  m_Name: Spninach Passive Item Level 2
   m_EditorClassIdentifier: 
-  prefab: {fileID: 4773655386840733912, guid: f5005ed1e48f14a45b9f5ea355a0a894, type: 3}
-  damage: 1
-  speed: 2
-  cooldownDuration: 1
-  pierce: 0
+  multipler: 10
+  level: 2
+  nextLevelPrefab: {fileID: 0}
+  icon: {fileID: 21300000, guid: 10c383a8ffe5fed41b23994b77d26749, type: 3}
