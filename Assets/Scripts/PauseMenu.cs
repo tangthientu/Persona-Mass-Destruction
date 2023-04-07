@@ -45,4 +45,8 @@ public class PauseMenu : MonoBehaviour
         pauseMenu.SetActive(false);
         
     }
+    public void toggleFullscreen()
+    {
+        Screen.fullScreen =! Screen.fullScreen;
+    }
 }
