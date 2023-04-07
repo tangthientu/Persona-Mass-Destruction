@@ -145,6 +145,7 @@ public class PlayerStats : MonoBehaviour
                 currentHealth = characterData.MaxHealth;
             }
         }
+        healthBar.SetHealth(currentHealth);
     }
     public void Recover()
     {
@@ -156,13 +157,14 @@ public class PlayerStats : MonoBehaviour
                 currentHealth = characterData.MaxHealth;
             }
         }
+        healthBar.SetHealth(currentHealth);
     }
 
     public void SpawnWeapon(GameObject weapon)//spawn ra vu khi khoi dau
     {
         if(weaponIndex >= inventory.weaponSlots.Count - 1)
         {
-            Debug.LogError("Inventory sots already full");
+            Debug.LogError("Inventory slots already full");
             return;
         }
 
