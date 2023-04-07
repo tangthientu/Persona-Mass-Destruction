@@ -9,13 +9,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4770e2c40dbb13445be7de6358880740, type: 3}
-  m_Name: Yu
+  m_Script: {fileID: 11500000, guid: 4fbfe26796c985a4e88c59065f8e207e, type: 3}
+  m_Name: Spninach Passive Item Level 2
   m_EditorClassIdentifier: 
-  startingWeapon: {fileID: 8195415731338931566, guid: ea8450a5318d4e44abbc3b35cb297439, type: 3}
-  maxHealth: 100
-  recovery: 1
-  moveSpeed: 2.5
-  might: 0
-  projectileSpeed: 0
-  pickupRange: 2
+  multipler: 10
+  level: 2
+  nextLevelPrefab: {fileID: 0}
+  icon: {fileID: 21300000, guid: 10c383a8ffe5fed41b23994b77d26749, type: 3}
