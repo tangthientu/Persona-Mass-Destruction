@@ -1658,7 +1658,6 @@ MonoBehaviour:
     experienceCapIncrease: 10
   weaponIndex: 0
   passiveItemIndex: 0
-  secondWeaponTest: {fileID: 8195415731338931566, guid: ea8450a5318d4e44abbc3b35cb297439, type: 3}
   firstPassiveItemTest: {fileID: 7729116554626628324, guid: 82d7c2817525699428807096d6866612, type: 3}
   secondPassiveItemTest: {fileID: 4613117217493183397, guid: 4de073db88687c6478945cba1fd050ee, type: 3}
 --- !u!114 &627330205
@@ -1749,7 +1748,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 240.4, y: -312.43}
+  m_AnchoredPosition: {x: 463.8, y: -297.4}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &640553519
@@ -3646,7 +3645,6 @@ MonoBehaviour:
     experienceCapIncrease: 10
   weaponIndex: 0
   passiveItemIndex: 0
-  secondWeaponTest: {fileID: 0}
   firstPassiveItemTest: {fileID: 0}
   secondPassiveItemTest: {fileID: 0}
 --- !u!95 &1914725090
