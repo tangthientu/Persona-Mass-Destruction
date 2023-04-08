@@ -7,6 +7,8 @@ public class SoundsManager : MonoBehaviour
 {
     // Start is called before the first frame update
     [SerializeField] Slider volumeSlider;
+    public AudioSource shuffleTheme;
+    public AudioSource levelTheme;
     void Start()
     {
         if(!PlayerPrefs.HasKey("musicVolume"))
@@ -19,6 +21,17 @@ public class SoundsManager : MonoBehaviour
             Load();
         }
 
+    }
+     void Update()
+    {
+        if(shuffleTheme.isPlaying)
+        {
+            levelTheme.Pause();
+        }
+        else
+        {
+            levelTheme.UnPause();
+        }
     }
 
     // Update is called once per frame

@@ -119,7 +119,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 27
+  controlID: 90
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -144,7 +144,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 32
+  controlID: 22
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -169,7 +169,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 33
+  controlID: 23
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -251,7 +251,7 @@ MonoBehaviour:
   - {fileID: 17}
   - {fileID: 18}
   m_Selected: 0
-  m_LastSelected: 1
+  m_LastSelected: 2
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -403,9 +403,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: fe6e0000
+      m_SelectedIDs: 046f0000
       m_LastClickedID: 0
-      m_ExpandedIDs: d41affffea23ffffdc24ffffca30ffff2e3bffffec4effffa451ffff1c85ffffd087ffff1cb8ffffd2c9fffff6cdffffe2deffff34e1ffff12e4ffff6ef9ffff28fbffffd66f0000fe6f0000007100001e710000b0bc0000d8bc0000dabd0000f8bd0000ecc3000060c4000062c5000066c5000080c50000aad100001ed2000020d300003ed3000016120100fe190100741a0100
+      m_ExpandedIDs: 4ee1feff4c8dffff4a98ffff54acffff68bdffff6ad0ffff8eddffff0ee8ffff92efffffa8f1ffffbcf5ffffcef8ffff72f9ffff28fbfffff87100003a7300005873000078be000094be0000a0be000006bf00002ebf000070c000008ec0000036d00000d0d0000012d2000030d2000096d70000d2d7000034e00000c2f40000dcf400001ef600003cf60000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1053,7 +1053,7 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 96
   m_LastFolders:
-  - Assets
+  - Assets/Scripts/Scriptable Objects/Passive Items/Wings Passive Item
   m_LastFoldersGridSize: 96
   m_LastProjectPath: D:\UNITY\Projects\do an moi truong\git build 1\Inventory\Persona-Mass-Destruction
   m_LockTracker:
@@ -1062,7 +1062,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 08ca9a3b
     m_LastClickedID: 1000000008
-    m_ExpandedIDs: 00000000a86e0000ba6e0000bc6e0000c06e0000b2740000ba740000d27400009087000000ca9a3bffffff7f
+    m_ExpandedIDs: 00000000ae6e0000c26e0000c66e000040840000fe8900006c8a00003e9c0000329e0000c2a1000050ab000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1090,7 +1090,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000a86e0000
+    m_ExpandedIDs: 00000000ae6e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
