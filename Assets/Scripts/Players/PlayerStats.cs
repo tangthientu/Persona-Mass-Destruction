@@ -28,8 +28,9 @@ public class PlayerStats : MonoBehaviour
     float invicibilityTimer;
     bool isInvicible;
     // thanh mau
-    public HealthBar healthBar; 
-
+    public HealthBar healthBar;
+    //upgrade menu
+    public GameObject upgradeMenu;
 
     [Header("Experience/Level")]
     public int experience = 0;//kinh nghiem
@@ -65,10 +66,10 @@ public class PlayerStats : MonoBehaviour
         currentRecovery = characterData.Recovery;
         currentPickupRange = characterData.PickupRange;
         //spawn vu khi
-        SpawnWeapon(characterData.StartingWeapon);
+       SpawnWeapon(characterData.StartingWeapon);
         // SpawnWeapon(secondWeaponTest);
-        SpawnPassiveItem(firstPassiveItemTest);
-        SpawnPassiveItem(secondPassiveItemTest);
+       SpawnPassiveItem(firstPassiveItemTest);
+       SpawnPassiveItem(secondPassiveItemTest);
     }
 
     private void Start()
@@ -100,6 +101,7 @@ public class PlayerStats : MonoBehaviour
         if(experience>=experienceCap)//neu kn hien tai lon hon gioi han kn
         {
             level++;// thi len cap
+            upgradeWeapon();
             experience-=experienceCap;// so kinh nghiem bay gio se bang so kinh nghiem bi du khi len cp
             int experienceCapIncrease = 0;
             foreach (LevelRange range in levelRanges)
@@ -183,8 +185,12 @@ public class PlayerStats : MonoBehaviour
 
         GameObject spawnedPassiveItem = Instantiate(passiveItem, transform.position, Quaternion.identity);//spawn vu khi
         spawnedPassiveItem.transform.SetParent(transform);// chinh cho vu khi la con cua nguoi choi
-        inventory.AddPassiveItem(passiveItemIndex, spawnedPassiveItem.GetComponent<PassiveItem>());
+       inventory.AddPassiveItem(passiveItemIndex, spawnedPassiveItem.GetComponent<PassiveItem>());
         passiveItemIndex++;
     }
-   
+   public void upgradeWeapon()
+    {
+        upgradeMenu.SetActive(true);
+        Time.timeScale = 0f;
+    }
 }
