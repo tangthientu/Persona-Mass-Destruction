@@ -19,4 +19,8 @@ public class MainMenuScripts : MonoBehaviour
     {
         Screen.fullScreen = !Screen.fullScreen;
     }
+    public void quitGame()
+    {
+        Application.Quit();
+    }
 }
