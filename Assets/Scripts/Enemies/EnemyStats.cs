@@ -19,13 +19,14 @@ public class EnemyStats : MonoBehaviour
 
     public float despawnDistance = 20f;
     Transform player;
-
+    
 
 
     public void Start()
     {
         player = FindObjectOfType<PlayerStats>().transform;
         am = GetComponent<Animator>();
+        
     }
 	void Update()
 	{
@@ -58,6 +59,9 @@ public class EnemyStats : MonoBehaviour
         currentMoveSpeed = 0f;//khong chinh toc do di chuyen ve bang khong (ko hoat dong??)
         AudioSource deathsound = GameObject.FindGameObjectWithTag("enemydeathsfx").GetComponent<AudioSource>();
         deathsound.Play();
+        ScoreManager scoreManager = GameObject.FindGameObjectWithTag("ui").GetComponent<ScoreManager>();
+        scoreManager.score++;
+        
     }
     public void die()
     {
