@@ -56,6 +56,8 @@ public class EnemyStats : MonoBehaviour
         
         am.SetBool("Death",true);//chinh animator sang animation chet
         currentMoveSpeed = 0f;//khong chinh toc do di chuyen ve bang khong (ko hoat dong??)
+        AudioSource deathsound = GameObject.FindGameObjectWithTag("enemydeathsfx").GetComponent<AudioSource>();
+        deathsound.Play();
     }
     public void die()
     {
